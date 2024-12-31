@@ -55,3 +55,22 @@ p.warren::after {
   padding-right: 30px;  
 }
 
+.site-title {
+  font-size: 1.35rem !important;  // Adjust this value as needed
+  white-space: nowrap;  // Prevents title from wrapping
+}
+
+a {
+  font-weight: 500;  // Slightly bolder
+  text-decoration: none;
+  
+  &:hover {
+    color: #b8f7ff;  // Even brighter on hover
+    text-decoration: underline;
+  }
+}
+
+// Make sidebar links match
+.nav-list .nav-list-item .nav-list-link {
+  font-weight: 500;
+}
