@@ -8,6 +8,8 @@ nav_order: 1
 {: .no_toc }
 
 > This chapter provides a high-level overview for the course **Designing Dungeons: Or How To Kill A Party In 30 Rooms or Less**. I'll introduce the goals of the series, discuss my theoretical approach to design, talk a bit about myself, and provide the tools used in this course.
+
+<br>
 <br>
 
 ## Table of contents
@@ -107,42 +109,53 @@ Finally, the almost universal idea of the "underworld" as an environment closer 
 Each chapter includes a "Further reading" section. These are links to texts that explain core concepts of RPGs, the OSR design movement, the history of gaming, and other relevant topics. If you're interested in following the rabbit hole on any particular subject, use these links to supplement your understanding of the dungeon design space.
 
 ## New to this role-playing thing in general?
-{: .no_toc .text-delta }
+{: .no_toc }
 
-This is a [video by Matt Colville called "Welcome to Dungeons and Dragons."](https://www.youtube.com/watch?v=Eo_oR7YO-Bw) In it, he talks through the basic expectations of the game: how often people play, what you do during play, etc. Great top level summary!   
+> "D&D is like television. This episode might be great. Don't you want to know what happens next episode?"
+
+Here is a [video by Matt Colville called "Welcome to Dungeons and Dragons."](https://www.youtube.com/watch?v=Eo_oR7YO-Bw) In it, he talks through the basic expectations of the game: how often people play, what you do during play, etc. Great top level summary!
 
 ## New to the OSR?
-{: .no_toc .text-delta }
+{: .no_toc }
+
+> "Don't prepare a plot for the players to follow. During the game, observe how players deal with a situation, and extrapolate the effects of their actions based on what you know. Don't plan the results too far ahead of time; players rarely do what you expect them to."
 
 [The Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html) is an introduction to the principles and playstyle of old-school gaming. It is a more serious expansion of the brief introduction to the term "OSR" in this chapter.
 
 ### Basic OSR Principles for 5E players
-{: .no_toc .text-delta }
+{: .no_toc }
+
+> "Reward creative thinking and problem solving. If a player makes a good enough argument, they shouldn't need to roll any dice; they just succeed."
 
 Yochai Gal, creator of the game *Cairn*, also explains the framing of old-school play in his post ["Basic OSR Principles."](https://newschoolrevolution.com/basic-osr-principles/) While covering the same ground as the Principia Apocrypha, it approaches the principles for readers who are most familiar with D&D 5E, so his post is a helpful alternative framing for this audience.
 
-## Do you want to learn more about OSR gaming?
-{: .no_toc .text-delta }
+### Do you want to learn even more about OSR gaming?
+{: .no_toc }
 
 [Knock!](https://www.themerrymushmen.com/shop-tmm/) is a series of zines that aggregate the collective wisdom and weirdness of the OSR scene. Between its covers, you can find some of the most well-known OSR essays, strange bits of apocrypha, gameable tables, funky art, new classes, and ready-to-run dungeons. It's exquisitely produced. Some of the issues are even edited by yours truly.
 
 ## Why are dungeons the "right size"?
-{: .no_toc .text-delta }
+{: .no_toc }
+
+> "The core activity of roleplaying games is making decisions. Every other activity feeds back into this core in one way or another."
 
 [The Basis of the Game are Interesting Decisions by Retired Adventurer](https://retiredadventurer.blogspot.com/2019/01/the-basis-of-game-is-making-decisions.html) is an essay that discusses a simple fact about games of all sorts: making decisions is the fun part. 
 
 ## What are megadungeons and the mythic underworld?
-{: .no_toc .text-delta }
+{: .no_toc }
 
 [Philotomy's Musings](https://www.grey-elf.com/philotomy.pdf) was one of the earliest series of essays about the old-school playstyle found in the original D&D texts. It defines the mythic underworld in this way:  
-*1. It’s big, and has many levels; in fact, it may be endless*  
-*2. It follows its own ecological and physical rules*  
-*3. It is not static; the inhabitants and even the layout may grow or change over time*  
-*4. It is not linear*   
-*5. There are many ways to move up and down through the levels*  
-*6. Its purpose is mysterious or shrouded in legend*  
-*7. It’s inimical to those exploring it*  
-*8. Deeper or farther levels are more dangerous*  
-*9. It’s a (the?) central feature of the campaign*  
+
+> *1. It’s big, and has many levels; in fact, it may be endless*  
+> *2. It follows its own ecological and physical rules*  
+> *3. It is not static; the inhabitants and even the layout may grow or change over time*  
+> *4. It is not linear*   
+> *5. There are many ways to move up and down through the levels*  
+> *6. Its purpose is mysterious or shrouded in legend*  
+> *7. It’s inimical to those exploring it*  
+> *8. Deeper or farther levels are more dangerous*  
+> *9. It’s a (the?) central feature of the campaign*  
 
 Read the rest of the essays to become more familiar with some of the other terms used in this course.
+
+---
