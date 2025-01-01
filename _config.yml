@@ -167,6 +167,8 @@ callouts_level: loud # or loud
 callouts:
   highlight:
     color: yellow
+  note:
+    color: purple
   important:
     title: Important
     color: red

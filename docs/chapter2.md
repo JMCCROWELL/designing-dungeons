@@ -7,9 +7,8 @@ nav_order: 2
 # Chapter 2: Brainstorming
 {: .no_toc }
 
-> In this chapter, you'll go through the ideation required to create a dungeon. Brainstorming is an important step needed to turn a blank page into a page filled with ideas that you can actually work with. We'll discuss how to "right size" a dungeon and think about the goals of your project. At the end of this chapter, you'll have a set of notes in your workbook about the history and theme of your dungeon that you'll use in later steps.
-
-<br>
+{: .note }
+In this chapter, you'll go through the ideation required to create a dungeon. Brainstorming is an important step needed to turn a blank page into a page filled with ideas that you can actually work with. We'll discuss how to "right size" a dungeon and think about the goals of your project. At the end of this chapter, you'll have a set of notes in your workbook about the history and theme of your dungeon that you'll use in later steps.
 
 ## Table of contents
 {: .no_toc .text-delta }

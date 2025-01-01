@@ -1,6 +1,8 @@
 // Import the default dark scheme as base
 @import "./color_schemes/dark";
 
+$body-text-color: #b7b0b9;
+
 // Sidebar navigation links
 $nav-child-link-color: $grey-lt-000;    // Making sidebar links lighter
 $link-color: $grey-lt-000;              // Making general links lighter

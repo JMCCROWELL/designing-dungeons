@@ -7,10 +7,8 @@ nav_order: 1
 # Chapter 1: Course Overview
 {: .no_toc }
 
-> This chapter provides a high-level overview for the course **Designing Dungeons: Or How To Kill A Party In 30 Rooms or Less**. I'll introduce the goals of the series, discuss my theoretical approach to design, talk a bit about myself, and provide the tools used in this course.
-
-<br>
-<br>
+{: .note }
+This chapter provides a high-level overview for the course **Designing Dungeons: Or How To Kill A Party In 30 Rooms or Less**. I'll introduce the goals of the series, discuss my theoretical approach to design, talk a bit about myself, and provide the tools used in this course.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -89,7 +87,7 @@ While there are lots of ways to approach RPGs, one of the unique things about th
 
 OSR games really value this kind of free input. One of the values of OSR games is that players should always have the ability to make informed, meaningful choices. Being able to make impactful choices elevates what makes RPGs special as a medium.
 
-## Thus: The Dungeon
+## Thus, dungeons
 
 Dungeons are an important element of fantasy adventure play because good dungeons are full of meaningful choices to be made. How do you get across the spiked pit? Do you accept the chained ogre's offer to set him free in exchange for a key to the treasure room? What do you do when you see a pile of gold sitting "undefended" in the middle of a room? 
 
@@ -122,7 +120,7 @@ Here is a [video by Matt Colville called "Welcome to Dungeons and Dragons."](htt
 
 [The Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html) is an introduction to the principles and playstyle of old-school gaming. It is a more serious expansion of the brief introduction to the term "OSR" in this chapter.
 
-### Basic OSR Principles for 5E players
+### Basic OSR principles for 5E players
 {: .no_toc }
 
 > "Reward creative thinking and problem solving. If a player makes a good enough argument, they shouldn't need to roll any dice; they just succeed."
