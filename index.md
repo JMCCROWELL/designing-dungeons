@@ -17,10 +17,10 @@ Creating a dungeon can seem daunting, but it’s really just a series of small, 
 
 This course&mdash;**Designing Dungeons: Or, How to Kill a Party in 30 Rooms or Less**&mdash;is a series of discussions, practical examples, and exercises designed to walk new Game Masters through the process of creating a new dungeon from scratch. The course provides a hands-on approach to the act of dungeon writing in an attempt to demystify the process. By following along, you'll construct a dungeon for your players to explore. 
 
-{: .josh-title }
+{: .josh-title .callout}
 > Get started
 > 
 > Are you ready to design a dungeon for your players to delve? Continue to [chapter 1]({{site.baseurl}}/docs/chapter1/) to learn more about the goals of the course, learn a bit about the authors, and the tools we'll use as we work on this project together.
 
-{: .important }
+{: .important .callout}
 The content of this course is being **actively developed**. There are fourteen planned chapters. New chapters are released frequently. This warning will be removed when all content is finalized. 

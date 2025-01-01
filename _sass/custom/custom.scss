@@ -4,6 +4,21 @@
 
 p.josh,
 p.warren {
+  color: #e6e1e8;  // Set text color for custom callouts
+}
+
+// For all other callouts
+.callout {
+  color: #e6e1e8;
+}
+
+// Make sure paragraphs inside callouts maintain the color
+.callout p {
+  color: #e6e1e8;
+}
+
+p.josh,
+p.warren {
   position: relative;
   padding-top: 2rem;  // Space for the title above
   padding-left: 0.5rem;  // Add some padding on the left for the content
@@ -73,4 +88,8 @@ a {
 // Make sidebar links match
 .nav-list .nav-list-item .nav-list-link {
   font-weight: 500;
+}
+
+#markdown-toc .label {
+  display: none;
 }
