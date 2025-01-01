@@ -16,8 +16,8 @@
 title: Designing Dungeons
 description: A course on building dungeons for your elfgames
 theme: just-the-docs
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://JMCCROWELL.github.io/designing-dungeons
+baseurl: "/designing-dungeons"
+url: "https://hismajestytheworm.games"
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
