@@ -2,8 +2,13 @@
 
 // Basic callout styles
 
+p.highlight-title, blockquote.highlight-title {
+  color: #e6e1e8;
+}
+
 p.josh,
 p.warren {
+  color: #e6e1e8;
   position: relative;
   padding-top: 2rem;  // Space for the title above
   padding-left: 0.5rem;  // Add some padding on the left for the content

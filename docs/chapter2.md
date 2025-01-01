@@ -127,15 +127,12 @@ If you are ever having trouble creating ideas in this course, choose a prompt as
 {: .josh } 
 To the goal of defeating the blank page, I put together twenty-one "dungeon seeds" in *His Majesty the Worm* to serve as inspirational prompts for your dungeons. This chapter of the book is released as a [free supplement](https://riseupcomus.itch.io/dungeon-seeds). Use them as a starting point if you're ever stuck during your design process.
 
-# Activity: Create a theme and background
+# Activity: Create a theme and background <span class="label label-purple">Activity</span>
 {: .d-inline-block }
-
-Activity
-{: .label .label-purple }
 
 In this activity, you brainstorm some ideas and decide on a theme and background for your dungeon. 
 
-[Here is a Google Doc to use as you follow along with this course.](link)[^3]
+[Here is a Google Doc to use as you follow along with this course.](https://docs.google.com/document/d/1h0xu81Du6PE9b-PNWk6yFeGEYwFYSW2Yru9Ecda57Wk/edit?usp=sharing)[^3]
 {: .d-inline-block }
 
 Tool

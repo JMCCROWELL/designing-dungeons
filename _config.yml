@@ -127,6 +127,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
+  - title: Designer's Worksheet
+    url: https://docs.google.com/document/d/1h0xu81Du6PE9b-PNWk6yFeGEYwFYSW2Yru9Ecda57Wk/edit?usp=sharing
   - title: Return to Rise Up Comus
     url: https://riseupcomus.blogspot.com/
 
