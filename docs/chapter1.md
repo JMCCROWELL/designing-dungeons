@@ -7,7 +7,7 @@ nav_order: 1
 # Chapter 1: Course Overview
 {: .no_toc }
 
-{: .note }
+{: .note .callout}
 This chapter provides a high-level overview for the course **Designing Dungeons: Or How To Kill A Party In 30 Rooms or Less**. I'll introduce the goals of the series, discuss my theoretical approach to design, talk a bit about myself, and provide the tools used in this course.
 
 ## Table of contents
@@ -28,17 +28,14 @@ In this series, I provide practical, step-by-step instructions on how to make a 
 
 Together, we'll create a dungeon. Like Bob Ross, you can follow along at home using the provided workbook. At each step, I'll talk through the design choices and philosophy of why I do things a certain way. And, like Bob Ross says, there's no wrong way to do things—you can make different choices as you follow along. At the end, we'll have a working dungeon you can actually run at the table. 
 
-## You do not need a course to run dungeons 
+## You do not need a course to run dungeons <span class="label label-yellow">Facts</span>
 {: .d-inline-block }
-
-Facts
-{: .label .label-yellow }
 
 Something I have noticed is a trend of newer players shying away from running games or creating their own content because they don't think they're "good enough." This sentiment feels especially prevalent after D&D's upswing in popularity during the covid pandemic, with the rise of highly-manufactured reality TV actual plays and professional GMs. It breaks my heart because, of all art forms, RPGs are the one of the most generally accessible. **You do not need a course to GM or to create your own content.**
 
 With good gaming groups, games are fun. You're rolling dice, drinking beer, and smearing Cheetos stains on your character sheet with greasy fingers. Your friends are funny. As you role-play together, you'll gloss over bad experiences. Good players will be charitable about the missteps of a good GM (and vice versa). 
 
-{: .highlight-title }
+{: .highlight-title .callout}
 Even sorta bad dungeons can be fun at the table. 
 
 So no matter what you do, you're going to have fun role-playing. This stuff is not super important.
@@ -76,7 +73,7 @@ In the aughts, there was a movement in RPG design called the Old-School Renaissa
 
 Dungeons are central to play in "old-school" D&D. As such, the OSR thought a lot about what makes dungeons actually fun in practice. The OSR thinks about dungeons in a different way than, say, a Dungeon World module or a Pathfinder adventure path. Its best practices and principles are exemplified here. 
 
-{: .highlight-title }
+{: .highlight-title .callout}
 > New to the old school?
 > 
 > See ["Further reading"](#new-to-the-osr) for links to more information.
@@ -97,7 +94,7 @@ A dungeon offers something to both new gamers and veterans. A dungeon is a conta
 
 Finally, the almost universal idea of the "underworld" as an environment closer to dream, death, and divinity makes the space a universally understood and highly miscible setting for as many themes a creator might want to apply.
 
-{: .highlight-title }
+{: .highlight-title .callout}
 > Jaquaysing the process
 > 
 > Creating a dungeon is mostly a non-linear process. This course is ordered in a series of discrete steps to help us make sense of what is, in practice, unsequenced work. As you take the lessons you learn here, don't imagine you have to adhere to the rigidity of pedagogy. Jump around from section to section as you're inspired, jot notes down on monsters while making your map, and so on.

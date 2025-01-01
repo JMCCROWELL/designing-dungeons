@@ -21,6 +21,27 @@ $yellow-300: #644c04;  // Darker yellow background
 $red-300: #dd2e2e;     // Darker red background
 $purple-300: #432160;  // Darker purple background
 
+// Override callout text colors
+$note-text-color: #e6e1e8 !important;
+$highlight-text-color: #e6e1e8 !important;
+$warren-text-color: #e6e1e8 !important;
+$important-text-color: #e6e1e8 !important;
+$josh-text-color: #e6e1e8 !important;
+
+// If the above doesn't work, try adding these as well
+.callout {
+  & p {
+    color: #e6e1e8 !important;
+  }
+}
+
+p.josh,
+p.warren {
+  & p {
+    color: #e6e1e8 !important;
+  }
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-weight: 600;  
     letter-spacing: -0.02em;  

@@ -7,7 +7,7 @@ nav_order: 2
 # Chapter 2: Brainstorming
 {: .no_toc }
 
-{: .note }
+{: .note .callout}
 In this chapter, you'll go through the ideation required to create a dungeon. Brainstorming is an important step needed to turn a blank page into a page filled with ideas that you can actually work with. We'll discuss how to "right size" a dungeon and think about the goals of your project. At the end of this chapter, you'll have a set of notes in your workbook about the history and theme of your dungeon that you'll use in later steps.
 
 ## Table of contents
@@ -30,7 +30,7 @@ However, a dungeon still needs to be large enough to be interesting. Too few roo
 
 These are also problems of real world space and time. Many folks play games for two or three hours once a week. An average group will explore ~3 rooms per hour of play, depending on the complexity of the puzzles, how many fights there are, the preferences of your gaming group, etc. So part of our calculus is to decide how long we anticipate your group to spend in a single dungeon.
 
-{: .highlight-title }
+{: .highlight-title .callout}
 > "So You Want to Build a Dungeon," Gus. L
 > 
 > "This basic scope is important because it gives the designer expectations and guidelines for size and complexity. Too much complexity or too many rooms and the players will never be able to make meaningful progress in the adventure or understand the layout. Too few rooms and too little complexity and the adventure risks not offering many choices, reducing play to a predictable set of scenes and encounters." [^1]
@@ -46,7 +46,7 @@ The purpose of this course isn't to make something you intend to publish; format
 
 If you're running your own game, you can do a lot with just a few sheets of paper: one sheet for the map, a couple of sheets for the key, and your familiarity with your own content is all you need. This helps you actually get your dungeon to the table with your friends. 
 
-{: .highlight-title }
+{: .highlight-title .callout}
 > "Mastering the Megadungeon," Miranda Elkins
 >  
 > "All D&D is hackwork and any half-assed idea that gets your game to the table is better than a perfect one that takes months."[^2]
@@ -86,7 +86,7 @@ When designing a dungeon, you're designing a space charged with potential energy
 
 Don't imagine a prescribed adventure&mdash;it's not a sequence of scenes. Define a space, a situation, and a cast of characters. Then, after the game, the story of what happened becomes *the* story of the dungeon. 
 
-{: .warren }
+{: .warren .callout}
 > What you will also find, reader, is how much less work a dungeon takes to maintain and run because it's loaded with potential energy&mdash;like an RPG battery. Your initial couple of working sessions of creativity fuels several sessions of play. And because you’re not trying to maintain the careful balancing act of a story and or fighting your players' decisions, this makes running a game less burdensome, freeing more energy for the *act of running a game.* 
 > 
 > Dungeons create an elastic game atmosphere that alleviates many of the issues that stymie modern groups: absent players, players forgetting details, players not following the exact anticipated order of events, etc.. Dungeons tolerate distraction and interruption. And playing in a dungeon can occupy both an eight-hour weekend session and a one-hour lunch time session; its old format that survives the brackish waters of players' modern time constraints&mdash;a true bull shark!
@@ -181,7 +181,7 @@ At the top of the Dungeon Worksheet, write your dungeon's background. **Write on
 
 And that's it! In future chapters, you will build these ideas out using concrete details. 
 
-{: .highlight-title }
+{: .highlight-title .callout}
 > Remember
 > 
 > If you don't like anything you wrote today, you don't have to keep it. You can change it during future steps.
