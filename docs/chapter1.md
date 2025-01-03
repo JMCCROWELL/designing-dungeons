@@ -26,10 +26,14 @@ As a GM, creating a dungeon can seem daunting, but it’s really just a series o
 
 In this series, I provide practical, step-by-step instructions on how to make a 30-room dungeon that is fun to play. You'll learn the nitty gritty of writing a dungeon from inception to completion: drawing the map, numbering the rooms, populating them with monsters, hiding treasure, and putting together notes that you can use at the table. 
 
-Together, we'll create a dungeon. Like Bob Ross, you can follow along at home using the provided workbook. At each step, I'll talk through the design choices and philosophy of why I do things a certain way. And, like Bob Ross says, there's no wrong way to do things—you can make different choices as you follow along. At the end, we'll have a working dungeon you can actually run at the table. 
+Together, we'll create a dungeon. Like Bob Ross, you can follow along at home using the provided workbook. At each step, I'll talk through the design choices and philosophy of why I do things a certain way. And, like Bob Ross says, there's no wrong way to do things—you can make different choices as you follow along. At the end, we'll have a working dungeon you can actually run at the table.[^1]
 
-## You do not need a course to run dungeons <span class="label label-yellow">Facts</span>
-{: .d-inline-block }
+![](../../assets/images/overview-by-bertdrawsstuff.png)
+
+[^1]:
+    Art by [BertDrawsStuff](https://bertdrawsstuff.itch.io/).
+
+## You do not need a course to run dungeons 
 
 Something I have noticed is a trend of newer players shying away from running games or creating their own content because they don't think they're "good enough." This sentiment feels especially prevalent after D&D's upswing in popularity during the covid pandemic, with the rise of highly-manufactured reality TV actual plays and professional GMs. It breaks my heart because, of all art forms, RPGs are the one of the most generally accessible. **You do not need a course to GM or to create your own content.**
 
@@ -47,7 +51,7 @@ GMing is something everyone can do, and do well, right from the start. There's n
 # Who are the authors?
 
 ## Josh McCrowell
-My name is Josh. At my day job, I'm a technical writer. In the evenings, I blog about RPG stuff. I wrote a game called *[His Majesty the Worm](https://www.hismajestytheworm.games/)*. I am combining these three professional interests into this series: I am using my career of instructional design to tell you how I play games. This makes me the most boring person alive.
+My name is Josh. At my day job, I'm a technical writer. In the evenings, I [blog about RPG stuff](https://riseupcomus.blogspot.com/). I wrote a game called *[His Majesty the Worm](https://www.hismajestytheworm.games/)*. I am combining these three professional interests into this series: I am using my career of instructional design to tell you how I play games. This makes me the most boring person alive.
 
 My game *His Majesty the Worm* is very focused on dungeon crawling. It's intended to support megadungeon campaigns. To this end, I dedicated an entire chapter on the subject of writing dungeons, which culminated in a tutorial dungeon level with commentary. You can check out this chapter for free, [here](https://riseupcomus.itch.io/dungeon-seeds). This course is going to repeat some of this content, but it's also going to expand it with practical examples.
 
@@ -57,7 +61,7 @@ When you see a green callout like this, this is Josh talking about his approach 
 <!--NOTE TO SELF: I guess I should include an author headshot or something--> 
 
 ## Warren D.
-My name is Warren. I too blog about RPG stuff at the [ICastLight! blog](https://icastlight.blogspot.com/)&mdash;mainly the OSE/BX games I run and play in on a weekly basis. I started my RPG journey with *TMNT and Other Strangeness* and *AD&D 2e (*plus *Planscape & Ravenloft)* along with a healthy smattering of *Shadowrun* and *Battletech.* After a long stint in boardgames, I returned to *D&D* via 5e, but shifted into the old-school scene after finding its DIY-attitude, creativity, mythic underworld-focus and play-centered approach energizing. The scene’s collective wisdom really reduces a burden on GMs allowing more games to hit the table. And this energy, excitement, and collected wisdom about dungeon design is what I hope gets imparted here!
+My name is Warren. I, too, blog about RPG stuff at the [ICastLight! blog](https://icastlight.blogspot.com/)&mdash;mainly the OSE/BX games I run and play in on a weekly basis. I started my RPG journey with *TMNT and Other Strangeness* and *AD&D 2e (*plus *Planscape & Ravenloft)* along with a healthy smattering of *Shadowrun* and *Battletech.* After a long stint in boardgames, I returned to *D&D* via 5e, but shifted into the old-school scene after finding its DIY-attitude, creativity, mythic underworld-focus and play-centered approach energizing. The scene’s collective wisdom really reduces a burden on GMs allowing more games to hit the table. And this energy, excitement, and collected wisdom about dungeon design is what I hope gets imparted here!
 
 {: .warren }
 When you see a blue callout like this, this is Warren is talking to you directly. He often talks more specifically about B/X D&D.
@@ -66,9 +70,9 @@ When you see a blue callout like this, this is Warren is talking to you directly
 
 Alright, time to use some acronyms and jargon. This is just to set expectations.
 
-In the aughts, there was a movement in RPG design called the Old-School Renaissance/Revival (OSR). It reexamined and reimagined the earliest editions of RPGs, extracting lessons for modern design. It emphasized problem solving, player choice, and simple, open-ended rulesets.[^1] It had settings that were at once realistic and down to earth and completely off the wall and swarming with magic robots.
+In the aughts, there was a movement in RPG design called the Old-School Renaissance/Revival (OSR). It reexamined and reimagined the earliest editions of RPGs, extracting lessons for modern design. It emphasized problem solving, player choice, and simple, open-ended rulesets.[^2] It had settings that were at once realistic and down to earth and completely off the wall and swarming with magic robots.
 
-[^1]:
+[^2]:
     Definition quoted from [SavevsTotalPartyKill](https://save.vs.totalpartykill.ca/blog/negative-space-reprise/).
 
 Dungeons are central to play in "old-school" D&D. As such, the OSR thought a lot about what makes dungeons actually fun in practice. The OSR thinks about dungeons in a different way than, say, a Dungeon World module or a Pathfinder adventure path. Its best practices and principles are exemplified here. 
@@ -78,11 +82,15 @@ Dungeons are central to play in "old-school" D&D. As such, the OSR thought a lot
 > 
 > See ["Further reading"](#new-to-the-osr) for links to more information.
 
-# Why dungeons for our dragons?
+# Why dungeons for our dragons?<span class="label label-green">Theory</span>
+{: .d-inline-block }
 
-While there are lots of ways to approach RPGs, one of the unique things about this style of game is that players have "tactical infinity." That is to say, because the players' actions are adjudicated by a game master (GM, also called a "referee" in old-school games), a player can potentially have their character do anything. In a video game or a board game, your character can only do those things the game designers have anticipated you doing. Is there a low stone wall in a video game? Well, that blocks your character. In an RPG, you can do anything that is realistic in the world of the game. You might climb the wall, hire a team of workers to tear it down, or train a dire mole to tunnel under it. You can try to do *anything*, because a real human is on the other side of the table telling a story about what actually happens based on your input. 
+While there are lots of ways to approach RPGs, one of the unique things about this style of game is that players have "tactical infinity." That is to say, because the players' actions are adjudicated by a game master (GM, also called a "referee" in old-school games), a player can potentially have their character do anything. In a video game or a board game, your character can only do those things the game designers have anticipated you doing. Is there a low stone wall in a video game? Well, that blocks your character. In an RPG, you can do anything that is realistic in the world of the game. <img src="../../assets/images/levitation-by-bertdrawsstuff.png" style="float: right; margin: 0 0 10px 10px; max-width: 40%;">You might climb the wall, hire a team of workers to tear it down, or train a dire mole to tunnel under it. You can try to do *anything*, because a real human is on the other side of the table telling a story about what actually happens based on your input.[^3]
 
 OSR games really value this kind of free input. One of the values of OSR games is that players should always have the ability to make informed, meaningful choices. Being able to make impactful choices elevates what makes RPGs special as a medium.
+
+[^3]:
+    Art by [BertDrawsStuff](https://bertdrawsstuff.itch.io/).
 
 ## Thus, dungeons
 

@@ -22,9 +22,10 @@ In this chapter, you'll go through the ideation required to create a dungeon. Br
 
 The first part of a journey is deciding where you want to go. Defining your scope will help you create an achievable goal and then follow through.
 
-<!--NOTE TO SELF: Art inspo: That spread from the designing dungeon video game instruction manual.--> 
+<img src="../../assets/images/descent-by-bertdrawsstuff.png" style="float: left; margin: 0 0 10px 10px; max-width: 52%;"> As we discussed in [chapter 1]({{site.baseurl}}/docs/chapter1/), a dungeon is a great location for RPG adventures because it bounds the scope of the players' choices in a satisfying way. The players can attempt anything that would be reasonable, and it's not hard for the average person to imagine the sort of things that "reasonable" means in a space of this size. Similarly, the dungeon's bounded space allows the GM to hold most of it in their head at the same time.[^1]
 
-As we discussed in [chapter 1]({{site.baseurl}}/docs/chapter1/), a dungeon is a great location for RPG adventures because it bounds the scope of the players' choices in a satisfying way. The players can attempt anything that would be reasonable, and it's not hard for the average person to imagine the sort of things that "reasonable" means in a space of this size. Similarly, the dungeon's bounded space allows the GM to hold most of it in their head at the same time. 
+[^1]:
+    Art by [BertDrawsStuff](https://bertdrawsstuff.itch.io/).
 
 However, a dungeon still needs to be large enough to be interesting. Too few rooms and the encounters feel predictable or inevitable: no choices! The procedures a game uses to track time won't have spun up in a dungeon of 5-10 rooms: torches are meant to gutter and go out, but won't even start to sputter in a dungeon of that size! A game focused on dungeon crawling should have dungeons that are large enough to have meaningful choices when it comes to exploration, direction, and strategy.
 
@@ -33,9 +34,9 @@ These are also problems of real world space and time. Many folks play games for 
 {: .highlight-title .callout}
 > "So You Want to Build a Dungeon," Gus. L
 > 
-> "This basic scope is important because it gives the designer expectations and guidelines for size and complexity. Too much complexity or too many rooms and the players will never be able to make meaningful progress in the adventure or understand the layout. Too few rooms and too little complexity and the adventure risks not offering many choices, reducing play to a predictable set of scenes and encounters." [^1]
+> "This basic scope is important because it gives the designer expectations and guidelines for size and complexity. Too much complexity or too many rooms and the players will never be able to make meaningful progress in the adventure or understand the layout. Too few rooms and too little complexity and the adventure risks not offering many choices, reducing play to a predictable set of scenes and encounters." [^2]
 
-[^1]:
+[^2]:
     [So You Want to Build a Dungeon](https://alldeadgenerations.blogspot.com/2021/03/so-you-want-to-build-dungeon.html).
 
 For this course, we're making a **30-room dungeon**. Although there should never be an expectation that players need to thoroughly clear every room, finding each treasure and vanquishing every monster, we can estimate this will take about ~10 hours to explore. That's plenty of content for four or five sessions for the average group. This is a large enough space to feel that players can take different routes, backtrack back to puzzles they encountered but hadn't solved, and negotiate in various ways with the various denizens of the dungeon. It's also an achievable number of rooms to write: enough to be a stretch of your creative muscles, but not feel overwhelming.
@@ -49,11 +50,11 @@ If you're running your own game, you can do a lot with just a few sheets of pape
 {: .highlight-title .callout}
 > "Mastering the Megadungeon," Miranda Elkins
 >  
-> "All D&D is hackwork and any half-assed idea that gets your game to the table is better than a perfect one that takes months."[^2]
+> "All D&D is hackwork and any half-assed idea that gets your game to the table is better than a perfect one that takes months."[^3]
 >
 > Truth. Let’s get those ideas to the table.
 
-[^2]:
+[^3]:
     [Mastering the Megadungeon](https://inplacesdeep.blogspot.com/2017/06/mastering-megadungeon.html).
 
 # What system?
@@ -113,7 +114,10 @@ The tension between the original purpose of the dungeon and the current inhabita
 **Background:** Once a beautiful mushroom forest growing out of the body of the mushroom god. Now, the mushroom god has a piece of a giant's spear lodged in its brain. While the god lies dying, the swamp is poisonous. The mushroom men that live there have been driven insane.
 
 **Theme:** Giant's castle  
-**Background:** Giants once ruled mankind. This castle is a testament to their faded glory; every step is a boulder to climb, every table a mountain. The true titans are now all dead. Only the degenerate ogre sons live here now, craving the human flesh they once ate.
+**Background:** Giants once ruled mankind. This castle is a testament to their faded glory; every step is a boulder to climb, every table a mountain. The true titans are now all dead. Only the degenerate ogre sons live here now, craving the human flesh they once ate.[^4] ![](../../assets/images/title-top-a.png)
+
+[^4]:
+    Art by [BertDrawsStuff](https://bertdrawsstuff.itch.io/).
 
 # Unblocking creativity
 
@@ -131,16 +135,16 @@ To the goal of defeating the blank page, I put together twenty-one "dungeon seed
 
 In this activity, you brainstorm some ideas and decide on a theme and background for your dungeon. 
 
-[Here is a Google Doc to use as you follow along with this course.](https://docs.google.com/document/d/1h0xu81Du6PE9b-PNWk6yFeGEYwFYSW2Yru9Ecda57Wk/edit?usp=sharing)[^3]
+[Here is a Google Doc to use as you follow along with this course.](https://docs.google.com/document/d/1h0xu81Du6PE9b-PNWk6yFeGEYwFYSW2Yru9Ecda57Wk/edit?usp=sharing)[^5]
 {: .d-inline-block }
 
 Tool
 {: .label .label-blue }
 
-[^3]: 
+[^5]: 
     This workbook was adapted from the [Dungeon23 Worksheet by Gus L.](https://alldeadgenerations.blogspot.com/2022/12/dungeon23-worksheets.html), which was released under the Creative Commons Attribution Non-Commercial license.
 
-If you want to see my version of the workbook with this activity complete, check it out [here.](link)
+If you want to see my version of the workbook with this activity complete, check it out [here.](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?usp=sharing)
 
 ## Step 1. Create a copy of the Designing Dungeon Workbook
 
@@ -153,13 +157,13 @@ First, create a copy of the workbook for yourself.
 
 ## Step 2. Define your theme
 
-Go to **page 2: Dungeon Worksheet**. 
+Go to **page 3: Dungeon Worksheet**. 
 
 **Write down your dungeon theme**. Make this short and punchy, easily gettable: one or two words is fine. It shouldn't be longer than a sentence. 
 
 ## Step 3. Free writing exercise
 
-Next, go to page 3: Free writing exercise. On this page, **write down as many ideas about your theme as you can**. Write lists of things you think are cool (laser eyes! fire breath! bats with human faces!). Write down simple puzzle set ups. Write potential rooms that you might want to include. Write types of treasure you might want to include. Just freely associate simple ideas. You will build them out later.
+Next, go to **page 2: Free writing exercise**. On this page, **write down as many ideas about your theme as you can**. Write lists of things you think are cool (laser eyes! fire breath! bats with human faces!). Write down simple puzzle set ups. Write potential rooms that you might want to include. Write types of treasure you might want to include. Just freely associate simple ideas. You will build them out later.
 
 Spend at least **ten minutes** on this; **set a timer**. 
 
@@ -186,7 +190,9 @@ And that's it! In future chapters, you will build these ideas out using concrete
 > 
 > If you don't like anything you wrote today, you don't have to keep it. You can change it during future steps.
 
-If you haven't already, look at my [completed Dungeon Worksheet](LINK). I'll be working more on this project throughout this series. \[IMAGE LINK\] 
+If you haven't already, look at my [completed Dungeon Worksheet](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.h5cwt6jbadlt). I'll be working more on this project throughout this series. 
+
+[![](../../assets/images/dungeon-worksheet.png)](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.h5cwt6jbadlt)
 
 ## Alternative Activity: *Back to Basics*
 
