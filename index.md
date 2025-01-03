@@ -1,5 +1,5 @@
 ---
-title: Designing Dungeons
+title: Designing Dungeons Course
 layout: home
 nav_order: 0
 description: "The landing page for the Designing Dungeons course."
@@ -7,7 +7,7 @@ permalink: /
 nav_exclude: true
 ---
 
-# Designing Dungeons
+# Designing Dungeons Course
 
 ## Or, How to Kill a Party in 30 Rooms or Less
 
