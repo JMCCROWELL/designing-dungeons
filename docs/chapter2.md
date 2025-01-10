@@ -1,6 +1,6 @@
 ---
 title: Chapter 2&#58; Brainstorming
-description: "A chapter dedicated to the ideation and thought-work required to start planning your dungeon."
+description: "Ideating and thought-work needed to start planning your dungeon"
 nav_order: 2
 ---
 
@@ -92,6 +92,8 @@ Don't imagine a prescribed adventure&mdash;it's not a sequence of scenes. Define
 > 
 > Dungeons create an elastic game atmosphere that alleviates many of the issues that stymie modern groups: absent players, players forgetting details, players not following the exact anticipated order of events, etc.. Dungeons tolerate distraction and interruption. And playing in a dungeon can occupy both an eight-hour weekend session and a one-hour lunch time session; its old format that survives the brackish waters of players' modern time constraints&mdash;a true bull shark!
 
+![](../../assets/images/title-top-a.png)
+
 # Theme and background
 
 This is not to say that your game world doesn't have stories in it! A dungeon that's just a random cave with various monsters waiting to fight to the death in every room is boring. A dungeon that is a cave carved by the tunneling of a long-dead lava worm, now inhabited by morlocks who believe themselves to be the true heirs of the local kingdom who were unjustly driven underground is much more interesting. Define your dungeon with both a **theme** and a **background**. 
@@ -114,7 +116,7 @@ The tension between the original purpose of the dungeon and the current inhabita
 **Background:** Once a beautiful mushroom forest growing out of the body of the mushroom god. Now, the mushroom god has a piece of a giant's spear lodged in its brain. While the god lies dying, the swamp is poisonous. The mushroom men that live there have been driven insane.
 
 **Theme:** Giant's castle  
-**Background:** Giants once ruled mankind. This castle is a testament to their faded glory; every step is a boulder to climb, every table a mountain. The true titans are now all dead. Only the degenerate ogre sons live here now, craving the human flesh they once ate.[^4] ![](../../assets/images/title-top-a.png)
+**Background:** Giants once ruled mankind. This castle is a testament to their faded glory; every step is a boulder to climb, every table a mountain. The true titans are now all dead. Only the degenerate ogre sons live here now, craving the human flesh they once ate.[^4] ![](../../assets/images/title-bottom.png)
 
 [^4]:
     Art by [BertDrawsStuff](https://bertdrawsstuff.itch.io/).
@@ -214,11 +216,12 @@ So it might be helpful to simply start listing six monsters, traps, special room
 ## How do game designers go about prepping *their* dungeons?
 {: .no_toc }
 
-Here are three great articles from award-winning designers about how they go about this process: 
+Here are four great articles from award-winning designers about how they go about this process: 
 
 * [My Process](https://maziriansgarden.blogspot.com/2022/10/my-process.html) by Ben L. of Mazirian's Garden  
 * [So You Want to Build a Dungeon](https://alldeadgenerations.blogspot.com/2021/03/so-you-want-to-build-dungeon.html) by Gus L. of All Dead Generations
 * [How I Write Adventures](https://goblinpunch.blogspot.com/2017/01/how-i-write-adventure.html) by Arnold K. of Goblinpunch
+* [Cairn 2E Dungeon Procedures](https://cairnrpg.com/second-edition/wardens-guide/dungeon-seeds/) by Yochai Gal of Cairn
 
 ## Going for a more old-school approach (aka doing the alternate activity)?
 {: .no_toc }
