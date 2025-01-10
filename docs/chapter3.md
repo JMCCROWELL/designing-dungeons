@@ -278,3 +278,5 @@ Many of these are classics, but they got me started thinking. And I knew my next
 > "The idea that at the core of an adventure is a relationship between the characters and a foe is a narrative structure that impedes exploration, but worse to the ethics of the classic dungeon crawl, it removes opportunity for player choice by presupposing that relationship. In the dungeon crawl, no matter how fun and exciting monsters are, mechanically they serve as the risk that creates time and supply pressure via random encounters..."
 
 [Gus L of All Dead Generations](https://alldeadgenerations.blogspot.com/2019/10/threat-risk-economy-part-iii.html) talks through the pressures that monsters put on players, both as threats and as social puzzles, and why they're important for old-school style gaming.
+
+---
