@@ -211,6 +211,9 @@ Then, randomly stock the rest of the rooms with a simple d6 roll:
 
 So it might be helpful to simply start listing six monsters, traps, special rooms, and treasures that are thematic to your desired dungeon. Don’t worry about how exact or correct they are, as outlined above we are simply trying to flesh out the flashes of creativity that often inspire us to pursue dungeon building in the first place. You can certainly add more than six but it adds a nice symmetry with the original stocking table and six is a pretty non-intimidating number.
 
+{: .warren }
+You can see my copy of the completed Dungeon Worksheet [here](https://docs.google.com/document/d/1GW1XkHdF5WNua46_y9JEWLHfmLcK6NjDDKSZ-t-XVHE/edit?usp=sharing)!
+
 # Further reading
 
 ## How do game designers go about prepping *their* dungeons?

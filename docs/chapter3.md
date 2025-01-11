@@ -20,7 +20,7 @@ In this chapter, you'll define specific details about your dungeon by building o
 
 # Communicating your ideas through details
 
-You've heard, I'm sure, the writing advice "show don't tell." It's simple but essential. Chuck Palaniuk sums this advice up like so:
+You've heard, I'm sure, the writing advice "show, don't tell." It's simple but essential. Chuck Palaniuk sums this advice up like so:
 
 > "Instead of saying: 'Adam knew Gwen liked him.' You’ll have to say: 'Between classes, Gwen had always leaned on his locker when he’d go to open it. She’d roll her eyes and shove off with one foot, leaving a black-heel mark on the painted metal, but she also left the smell of her perfume. The combination lock would still be warm from her butt. And the next break, Gwen would be leaned there, again.'"<img src="../../assets/images/discovery-by-bertdrawsstuff.png" style="float: right; margin: 0 0 10px 10px; max-width: 50%;">
 
@@ -147,14 +147,14 @@ These environments give us fertile ground for imagination.
 
 That's a lot! I don't need to use every single possible idea. Condensing this down to one or two ideas from each category: *corrupt church mice (stats as dire rat), broken guardian golems, ogres, slimes, bloodybones, skeletons, effluence imps*
 
-(Thinking about these creatures, something that strikes me is that the environmental hierarchy is very simple. Corrupt church mice are on the bottom of the food chain. They're probably eaten by slimes. What do ogres eat? Humans, no doubt. We'll have to think about this more in the future.)
+Thinking about these creatures, something that strikes me is that the environmental hierarchy is very simple. Corrupt church mice are on the bottom of the food chain. They're probably eaten by slimes. What do ogres eat? Humans, no doubt. We'll have to think about this more in the future.
 
 This free association lets you sketch out the essential shape of your monstrous ecology. 
 
 {: .highlight-title .callout}
 > Use the devils you know
 > 
-> Because this course is about designing dungeons and not homebrewing monsters, I recommend that you stick to monsters that you have stats for. (Although, in a pinch, let me recommend the OSR trick of using "[Stats as Bear](https://talesofthegrotesqueanddungeonesque.blogspot.com/2016/08/just-use-bears.html)."
+> Because this course is about designing dungeons and not homebrewing monsters, I recommend that you stick to monsters that you have stats for. (Although, in a pinch, let me recommend the OSR trick of using "[Stats as Bear](https://talesofthegrotesqueanddungeonesque.blogspot.com/2016/08/just-use-bears.html).")
 
 ## Important NPCs
 
@@ -263,6 +263,9 @@ I recently asked a couple of family members I play D&D with: "What are the first
 
 Many of these are classics, but they got me started thinking. And I knew my next task too was figuring out how to give these classics a creative twist.
 
+{: .warren }
+You can see my copy of the completed Dungeon Worksheet [here](https://docs.google.com/document/d/1GW1XkHdF5WNua46_y9JEWLHfmLcK6NjDDKSZ-t-XVHE/edit?usp=sharing)!
+
 # Further reading
 
 ## How do you build a fantastic world that's fun to play at the table and not just GM navel gazing?
@@ -270,13 +273,13 @@ Many of these are classics, but they got me started thinking. And I knew my next
 
 > "I want to talk about how you engage in high concept world building while also running a game that is focused on hex crawling, GP for XP dungeon trawling, and faction play, all with total freedom of player choice, and emergent story telling."
 
-[Ben L of Mazirian's Garden](https://maziriansgarden.blogspot.com/2017/12/world-building-and-old-school-games.html) talks through the tensions of having a bespoke world filled with lore and letting your players embrace the old-school playstyle of "don't prep plots."
+[World Building and Old-School Games by Ben L](https://maziriansgarden.blogspot.com/2017/12/world-building-and-old-school-games.html) talks through the tensions of having a bespoke world filled with lore and letting your players embrace the old-school playstyle of "don't prep plots."
 
 ## What "work" are monsters doing in your adventure games?
 {: .no_toc }
 
 > "The idea that at the core of an adventure is a relationship between the characters and a foe is a narrative structure that impedes exploration, but worse to the ethics of the classic dungeon crawl, it removes opportunity for player choice by presupposing that relationship. In the dungeon crawl, no matter how fun and exciting monsters are, mechanically they serve as the risk that creates time and supply pressure via random encounters..."
 
-[Gus L of All Dead Generations](https://alldeadgenerations.blogspot.com/2019/10/threat-risk-economy-part-iii.html) talks through the pressures that monsters put on players, both as threats and as social puzzles, and why they're important for old-school style gaming.
+[Threat - The Risk Economy, Part III by Gus L](https://alldeadgenerations.blogspot.com/2019/10/threat-risk-economy-part-iii.html) talks through the pressures that monsters put on players, both as threats and as social puzzles, and why they're important for old-school style gaming.
 
 ---
