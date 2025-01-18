@@ -248,7 +248,8 @@ If you haven't already, check out at my [completed Dungeon Worksheet](https://do
 
 [![](../../assets/images/dungeon-worksheet.png)](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.h5cwt6jbadlt)
 
-# Alternative Activity: Ask your players
+# Alternative Activity: Ask your players<span class="label label-blue">Alternate Activity</span>
+{: .d-inline-block }
 
 {: .warren }
 Here's a simple but effective way to generate a lot of ideas: just ask your players what they expect! I'm calling this alternate dungeon idea: **The Barrow Wizard**.
