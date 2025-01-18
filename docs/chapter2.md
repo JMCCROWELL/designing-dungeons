@@ -196,7 +196,8 @@ If you haven't already, look at my [completed Dungeon Worksheet](https://docs.go
 
 [![](../../assets/images/dungeon-worksheet.png)](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.h5cwt6jbadlt)
 
-## Alternative Activity: *Back to Basics*
+# Alternative Activity: Back to Basics<span class="label label-blue">Alternate Activity</span>
+{: .d-inline-block }
 
 {: .warren }
 If you're making a dungeon using B/X procedures, consider this alternate activity instead.
