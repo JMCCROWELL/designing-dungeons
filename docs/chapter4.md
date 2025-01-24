@@ -91,7 +91,7 @@ A map that is a straight line, from room 1 to room 30, wouldn't be very interest
 ## Linear dungeon
 {: .no_toc }
 
-Consider this simple dungeon map. An issue with this map is that to get to rooms C and D, you *always* have to pass through rooms A and B. Assuming you need to explore rooms C and D to complete the dungeon, the players can't make any real choices here.
+Consider this simple dungeon map. An issue with this map is that to get to rooms B and D, you *always* have to pass through rooms A and C. Assuming you need to explore rooms B and D to complete the dungeon, the players can't make any real choices here.
 
 ![](../../assets/images/Figure1.png)
 
