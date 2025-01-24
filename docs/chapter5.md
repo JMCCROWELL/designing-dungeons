@@ -106,7 +106,7 @@ For example:
 
 Not everything can be negotiated with. Interesting combats can be thrilling.
 
-Place some creatures in each dungeon whose default Disposition is aggressive. This might be a non-sentient creature that sees the adventurers as food (like a slime) or a creature whose worldview directly conflicts with the guild’s (like a skeleton who sees meat creatures as slave drivers unfairly imprisoning their brethren).<img src="../../assets/images/spot-17-by-bertdrawsstuff.png" style="float: right; margin: 0 0 10px 10px; max-width: 40%;"> 
+Place some creatures in each dungeon whose default Disposition is aggressive. This might be a non-sentient creature that sees the adventurers as food (like a slime) or a creature whose worldview directly conflicts with the guild’s (like a skeleton who sees meat creatures as slave drivers unfairly imprisoning their brethren). <img src="../../assets/images/spot-17-by-bertdrawsstuff.png" style="float: right; margin: 0 0 10px 10px; max-width: 40%;"> 
 
 For example:
 
