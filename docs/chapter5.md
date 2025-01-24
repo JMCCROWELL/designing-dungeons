@@ -106,7 +106,7 @@ For example:
 
 Not everything can be negotiated with. Interesting combats can be thrilling.
 
-Place some creatures in each dungeon whose default Disposition is aggressive. This might be a non-sentient creature that sees the adventurers as food (like a slime) or a creature whose worldview directly conflicts with the guild’s (like a skeleton who sees meat creatures as slave drivers unfairly imprisoning their brethren). <img src="../../assets/images/spot-17-by-bertdrawsstuff.png" style="float: right; margin: 0 0 10px 10px; max-width: 40%;"> 
+Place some creatures in each dungeon whose default Disposition is aggressive. This might be a non-sentient creature that sees the adventurers as food (like a slime) or a creature whose worldview directly conflicts with the guild’s (like a skeleton who sees meat creatures as slave drivers unfairly imprisoning their brethren). <img src="../../assets/images/skull-by-bertdrawsstuff.png" style="float: right; margin: 0 0 10px 10px; max-width: 40%;"> 
 
 For example:
 
@@ -282,3 +282,5 @@ If you prefer a different (and slightly more irreverent) oeuvre, [here is an alt
 > "Blorb is a prep-focused playstyle, and prep is central, but never prep plot. Do prep entities. Places, enemies, friends, items, rewards. Porte-Monstre-Trésor."
 
 Some people like RPGs that feature a lot of improv. That's fine! But the fun of improvisation is different from the fun of discovery. By considering what is in your dungeon before the players begin exploring it, the world feels more concrete, grounded, and explorable. This principle is called "blorb" (a deliberately funny word). Read more about the [Blorb Principle here.](https://idiomdrottning.org/blorb-principles)
+
+---
