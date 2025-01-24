@@ -161,4 +161,8 @@ Yochai Gal, creator of the game *Cairn*, also explains the framing of old-school
 
 Read the rest of the essays to become more familiar with some of the other terms used in this course.
 
+
+![](../../assets/images/rams-dungeon.png)
+(Peak dungeon design by [SavevsTotalPartyKill](https://save.vs.totalpartykill.ca/).)
+   
 ---

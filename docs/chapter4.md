@@ -330,3 +330,5 @@ In [Bite Sized Dungeons](https://traversefantasy.blogspot.com/2022/11/bite-sized
 {: .no_toc }
 
 The early D&D maps were rich with icons for all sorts of different things; each different trap type had its own little symbol. That might be a bit overkill, but icons can be fun to use and give your map some zhuzh. Game Maker's Toolkit has a Patreon post analyzing Zelda dungeons, which provides a very handy dungeon graphing system. Check it out [here](https://www.patreon.com/posts/how-my-boss-key-13801754)!
+
+---
