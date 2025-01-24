@@ -214,7 +214,7 @@ Earlier, I jotted down the idea about clowns living in sewers because I was thin
 
 In this activity, you will write down the names of some monsters you want to use for stocking rooms or your random encounter tables. You will think about potential NPCs to use, and roughly sketch out their names and goals. You will also consider the relationships between these NPCs and if they are aligned with any of your setting's factions.
 
-For this activity, **[open the workbook]({{site.baseurl}}/docs/chapter2/#activity-create-a-theme-and-background-activity)** that you created in chapter 2. During this activity, you'll complete the Dungeon Worksheet page.
+For this activity, **[open the workbook]({{site.baseurl}}/docs/chapter2/#activity-create-a-theme-and-background-activity)** that you created in chapter 2. During this activity, you'll complete the **Dungeon Worksheet** page.
 
 If you want to see my version of the workbook with this activity complete, check it out [here.](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?usp=sharing)
 
