@@ -37,6 +37,9 @@ To create a good dungeon, you should have:
 
 During this chapter, we'll continue brainstorming exercises. You don't have to finalize these right now—the most important thing at this point is to generate some cool ideas.
 
+{: .warren } 
+This checklist helps ensure that all character classes can be equally useful along with their backgrounds, tools, "silly" items, and randomly generated ability scores (if that's in your game) for a given dungeon. This is especially important at lower levels of many fantasy adventure games, where PCs cannot sustain repeated combat. Constant fights can disadvantage adventurers with non-combat abilities, equipment, attributes or specialties&mdash;leading to a reduced enjoyment.
+
 {: .important .callout}
 > There’s a huge number of resources in the role-playing hobby to draw on. RPGs have been around a long time and it’s never been better. There’s a vibrant DIY community of incredibly talented people creating all sorts of blog posts, zines, and indie games. When you set out to create your dungeon, you’ll have an enormous amount of things to borrow from and be inspired by.  
 >  
@@ -115,6 +118,8 @@ For example:
 * Angry ghosts (resentful of the guild’s life)  
 * Jack of Napes (a gnome serial killer; just a real jerk)
 
+A reason to fight doesn’t always have to mean "to the death." Enemies can have objectives such as kidnapping a particular adventurer instead of "kill them all." This, along with Morale rules, can keep combats from being a slog.
+
 {: .highlight .callout}  
 Even hostile forces can provide rich role-playing opportunities: through shouted insults, players can learn about an enemy’s motivations, current plans, belief systems, or the dungeon level in general. 
 
@@ -124,8 +129,13 @@ Not every battle can be won. The players should occasionally be faced with a foe
 
 For example:
 
-* Dragons  
-* Seriously put a dragon in your dungeon
+* Dragons
+* Incorporeal creature who can only hurt by music
+* Walking iron statue set with basilisk eyes
+* Water elemental that travels the dungeon as a roaring wave
+* …No seriously put a dragon in your dungeon
+
+"A reason to flee" is more than just some very scary monster; it's an opportunity to show off a fantastical element of your world by showing not telling, especially at low level where players often are expecting to only encounter giant rats or skeletons. It also a place to present a tantalizing puzzle for the players to solve&mdash;how do they get past the fire elemental of the black pit?
 
 # A reason to breathe easy
 
@@ -136,8 +146,13 @@ Some rooms are safe because they are secret, particularly defensible, or protect
 For example:
 
 * A normal empty room
-* A hidden room the monsters don't know about and don't patrol
+* An abandoned camp in a hallway between two secret doors
 * A bonfire lit with sacred flame, repels monsters
+* A shrine that charms all into passivity
+* A magical bedroom that straightens itself every few minutes 
+
+As opposed to the "reason to flee," the "reason to breathe easy" can still be an opportunity to show off how fantastical the world is. In this area, art, furniture, or passive magical effects can drive home facets of the setting. If players have been asking questions about major events, perhaps the answers are here.
+
 
 # A reason to experiment
 
@@ -156,6 +171,8 @@ For example:
 
 Once clever players understand how a feature works, they can turn this information to their advantage. For example, if the players figure out how to trigger a trap, they can lure monsters into it or use the trap to smash open locked chests.
 
+These experiments can also help answer the *why* of the dungeon. Why was this dungeon built or formed here? Why are X and Y factions fighting over these grey halls? Why did the queen of old keep sending her best knights to die here so that their undead bodies now haunt these rooms?
+
 # A reason to be surprised
 
 Though information allows the players to make meaningful choices, it’s essential there are still opportunities for exploration, discovery, and surprise. Not everything should be obvious at first glance. Create some secrets that keep players invested in investigating the dungeon. <img src="../../assets/images/spot-2-by-bertdrawsstuff.png" style="float: right; margin: 0 0 10px 10px; max-width: 45%;"> 
@@ -165,6 +182,8 @@ For example:
 * A secret door behind a huge oil painting   
 * A trapped false tomb to deter would-be grave robbers  
 * A pit trap in front of the throne, allowing the Slug King to drop those he's displeased with into the Pit of the Ever-hungry Slime
+
+Surprise breaks up routine and challenges expectations. Surprise often creates dramatic moments, last stands, and narrow escapes that excite players and create stories that live on past the game itself.
 
 # A reason to return
 
@@ -178,6 +197,8 @@ For example:
 
 {: .highlight-title .callout} 
 A big caveat here is that you don't want your dungeon to grind to a halt. Challenges like puzzles and riddles work best when they gate rewards and optional content. It's not fun to sit in front of the entrance to a dungeon, watching the wizard player trying to guess what "Speak friend and enter" means while everybody else is bored. You can put content that you anticipate players needing to return to, but make sure there are alternate routes as well so the fun doesn't stop.
+
+"Reasons to return" can also be rooms on structures in a dungeon that provide lasting benefit allowing the dungeon to maintain some longevity in the players' mind. For instance, once you have dispersed the wolf bats of the foul wizard Murger, the shrine to Helios could be restored and every Friday at noon it can enchant a weapon. Now the dungeon is a semi-domain that the adventurers might want to maintain or can become a location of future conflicts&mdash;both reasons to return.
 
 ![](../../assets/images/bottom-right-e-by-bertdrawsstuff.png)
 
