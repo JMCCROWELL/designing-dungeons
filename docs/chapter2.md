@@ -146,6 +146,7 @@ Tool
 [^5]: 
     This workbook was adapted from the [Dungeon23 Worksheet by Gus L.](https://alldeadgenerations.blogspot.com/2022/12/dungeon23-worksheets.html), which was released under the Creative Commons Attribution Non-Commercial license.
 
+{: .josh }   
 If you want to see my version of the workbook with this activity complete, check it out [here.](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?usp=sharing)
 
 ## Step 1. Create a copy of the Designing Dungeon Workbook
@@ -192,6 +193,7 @@ And that's it! In future chapters, you will build these ideas out using concrete
 > 
 > If you don't like anything you wrote today, you don't have to keep it. You can change it during future steps.
 
+{: .josh }   
 If you haven't already, look at my [completed Dungeon Worksheet](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.h5cwt6jbadlt). I'll be working more on this project throughout this series. 
 
 [![](../../assets/images/dungeon-worksheet.png)](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.h5cwt6jbadlt)

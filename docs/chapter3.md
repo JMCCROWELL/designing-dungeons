@@ -96,7 +96,7 @@ In this section, you'll build on the brainstorming you did in [chapter 2]({{site
     Art by [BertDrawsStuff](https://bertdrawsstuff.itch.io/).
 
 {: .highlight-title .callout}
-This section is focused on thoughtwork. We'll get into the specific stats and motivations of NPCs, factions, and wandering monsters in chapter 7.
+This section is focused on thoughtwork. We'll get into the specific stats and motivations of NPCs, factions, and wandering monsters in [chapter 7]({{site.baseurl}}/docs/chapter7/).
 
 <div align="center">
 <img src="../../assets/images/surrounded-by-fishmen-by-bertdrawsstuff.png" width="60%" alt="surrounded by fishmen">
@@ -160,6 +160,9 @@ This free association lets you sketch out the essential shape of your monstrous 
 
 Beyond monsters, the most interesting challenges in a fantasy adventure game are NPCs—characters with their own interests, schemes, desires, likes, and dislikes. Remember, dungeons are deadly enough that not every single denizen needs to be hostile. Good NPCs give players opportunities to gather information, make unlikely allies, and take part in factional intrigue. Building on your brainstorming, consider what major NPCs might dwell in your level.
 
+{: .josh }
+Here, I continue with my own brainstorming as an example. 
+
 Continuing with the example from the previous section, most of the monsters we listed are non-sentient. The ogre and maybe the guardian golem are two notable exceptions.
 
 I think ogres are coolest when they feel like a fairy tale monster, like Bluebeard. Because there's little for ogres to eat in the ecosystem of monsters, I'm imagining an ogre who tricks humans into a trap so that they can get enough to eat—maybe they serve as a classic "bridge troll." And when they can't, they break into the tombs of the place and gnaw on bones. Thinking about fairy tale names, let's name him: Long Tall Tom.
@@ -188,6 +191,9 @@ Factions should each have their own goals. It's most interesting when these goal
 
 Importantly, the "ecology" of the dungeon includes not only naturalistic predator/prey dynamics, but the *relationships* between these factions as they work against or with each other. The Order of the Brainworm's goals are in direct opposition of the Void Monks, who seek to eliminate conscious thought in the Wide World (for only then can G-d stop dreaming and awaken). Both are opposed by the Templars of Mythrys, who wish to conquer the Underworld. Clever players can exploit the tensions created by the criss-cross of opposing goals.
 
+{: .josh }
+Continued examples from my parallel work in this lesson. 
+
 Taking a look at the important NPCs we sketched out in the previous step, it feels as if there are several singular characters. How might we expand these characters' connections? 
 
 First, it feels as if the rat pope and guardian golem's goals might be aligned. They might not be enough to be considered a faction in their own right, but it's good to think about how these NPCs are allies.
@@ -200,12 +206,13 @@ Although the factions of my sample dungeon are not elaborate, the adventure will
 
 OSR-style games don't need to have a big boss monster. There's no expectation that you "complete" a dungeon, working your way through each room, until you come to the boss. Even so, some modules are built around an idea of a big, nearly undefeatable monster in the center of the dungeon—the titular monster of *[Lair of the Lamb](https://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html)*, Acererak at the bottom of the *Tomb of Horrors*, etc. There's something compelling about the idea.  
 
-Consider whether or not your dungeon has a "Dungeon lord." If so, what might it be? A lich, a dragon, an unborn god, a literal angel *trying* to do good but fucking it up, the king of slimes?
-
-Earlier, I jotted down the idea about clowns living in sewers because I was thinking of *It.* I like thinking of clowns more like a monster than as a profession—I think they should be a species of critter. I also had the idea of drains being clogged with hair during my brainstorming session. I think the idea of having a clown monster with long hair is very scary. To explore that idea, I'm going to elect to add a "Clown Queen" as a dungeon lord.[^4]
+Consider whether or not your dungeon has a "Dungeon lord." If so, what might it be? A lich, a dragon, an unborn god, a literal angel *trying* to do good but fucking it up, the king of slimes?[^4]
 
 [^4]:
     Art by [BertDrawsStuff](https://bertdrawsstuff.itch.io/).
+
+{: .josh }
+Earlier, I jotted down the idea about clowns living in sewers because I was thinking of *It.* I like thinking of clowns more like a monster than as a profession—I think they should be a species of critter. I also had the idea of drains being clogged with hair during my brainstorming session. I think the idea of having a clown monster with long hair is very scary. To explore that idea, I'm going to elect to add a "Clown Queen" as a dungeon lord.
 
 <img src="../../assets/images/saladhog.png" width="40%" alt="saladhog">
 
@@ -216,6 +223,7 @@ In this activity, you will write down the names of some monsters you want to use
 
 For this activity, **[open the workbook]({{site.baseurl}}/docs/chapter2/#activity-create-a-theme-and-background-activity)** that you created in chapter 2. During this activity, you'll complete the **Dungeon Worksheet** page.
 
+{: .josh }   
 If you want to see my version of the workbook with this activity complete, check it out [here.](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?usp=sharing)
 
 ## Step 1. List common monsters
@@ -244,6 +252,7 @@ And with that, you have completed the initial brainstorming stages of the dungeo
 {: .highlight .callout}
 All of this is still thoughtwork that you'll use when you actually start populating your dungeon! You can change the things you wrote today in the future. The important part is that you're having cool ideas.
 
+{: .josh } 
 If you haven't already, check out at my [completed Dungeon Worksheet](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.h5cwt6jbadlt). I'll be working more on this project throughout this series. 
 
 [![](../../assets/images/dungeon-worksheet.png)](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.h5cwt6jbadlt)
