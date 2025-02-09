@@ -276,6 +276,7 @@ Steps 2 and 3 of this exercise reference the map you created in [chapter 4]({{si
 
 Then, navigate to page 6: Traps and Secrets. For each step, write your answers down here.
 
+{: .josh }   
 If you want to see my version of the workbook with this activity complete, [check it out here](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.tt2gwdsghu8n).
 
 ## Step 1: Define your dungeon's history

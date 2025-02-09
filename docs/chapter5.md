@@ -97,14 +97,6 @@ For example:
   * They want fresh bones to gnaw, to be flattered, and their ancient treasures to be restored to them.  
   * They can offer royal titles for a kingdom that no longer exists.
 
-{: .highlight-title .callout}  
-> Making languages matter  
->   
-> When planning social encounters, don’t neglect to address the myriad languages spoken by the adventuring party. Having different creatures speak different languages—or providing contextually different information based on the language spoken to them—can reward adventurers’ linguistic ranges and give different players a time to shine.
-
-{: .warren}  
-**One more sentence (optional):** Two sentences is all you need to define an NPC or faction, but it might be wise to add a third: leverage. This represents a secret, hidden alliance, or a weakness that allows players to have an outsized influence on the NPC or faction; a sorta cheat code. Finding leverage can be the reward for a sidequest or smart play. 
-
 # A reason to fight
 
 Not everything can be negotiated with. Interesting combats can be thrilling.
@@ -216,6 +208,7 @@ In this activity, you will brainstorm at least one idea for each item in the dun
 
 For this activity, **[open the workbook]({{site.baseurl}}/docs/chapter2/#activity-create-a-theme-and-background-activity)** that you created in chapter 2. Navigate to page 5: **Checking Off the Dungeon Checklist**. For each step, write your answers down here.
 
+{: .josh }   
 If you want to see my version of the workbook with this activity complete, [check it out here](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.hafn7tm0yn4g).
 
 ## Step 1. A reason to explore

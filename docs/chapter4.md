@@ -168,6 +168,7 @@ If you would prefer to use a pre-generated map, just skim this chapter's activit
 
 In this activity, you'll put pen to paper and draw a map for your dungeon. You'll start by defining shapes for rooms. Then, you'll create connections between those rooms. Lastly, you'll use a numbering convention to key your map.
 
+{: .josh }   
 If you want to see my version of the workbook with this activity complete, [check it out here](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.p8y8k9v9hh3j).
 
 ## Step 1: Prepare your grid paper
@@ -245,6 +246,7 @@ In future chapters, you can redraw, correct, renumber, and just recreate the map
 
 Writing to constraints can also improve your writing. If you wish, use the map you made today and, when you wonder why something is in a particular configuration, your answer might give the dungeon a new level of depth, realism, or weirdness that improves the experience.
 
+{: .josh }   
 My completed map looks like this:
 
 [![](../../assets/images/joshs-map.png)](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.h5cwt6jbadlt)
