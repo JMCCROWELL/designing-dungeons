@@ -86,7 +86,7 @@ Safe spaces are a great reward for clever play. A trap that the adventurers effe
 > 
 >A lost shrine to Ishtar can be blessed by a devoted party member, causing the statue to shed occasional healing tears. However, this also attracts those who wish to see Ishtar’s light extinguished.
 > 
->A giant talking spider is willing to trade a “night’s rest” in their web provided a fresh humanoid meal is provided. However, the spider’s payment demands double with every subsequent rest.
+>A giant talking spider is willing to trade a “night’s rest” in their web if provided a fresh humanoid meal. However, the spider’s payment demands double with every subsequent rest.
 
 <img src="../../assets/images/campfire-by-bertdrawsstuff.png" style="max-width: 99%;"> 
 
