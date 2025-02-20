@@ -33,8 +33,10 @@ In [chapter 3]({{site.baseurl}}/docs/chapter3/#dungeon-denizens), you began to t
 
 This course is about dungeon design, not homebrewing critters in your system. For our purposes, I recommend using creatures that you have readily at hand in your system's monster manual. 
 
-{: .highlight .callout}  
-Making new monsters isn't hard or anything, especially in old-school games. It's just not the work we're doing right now. This course is already long enough!
+{: .highlight-title .callout}
+> Dungeon denizens
+> 
+> Throughout this chapter, we use a small variety of common words: creatures, characters, NPCs, and more. Broadly, this refers to the class of "humans, demi-humans, thinking characters, monsters, animals, etc." of beings that can be in a dungeon. We broadly refer to the group inclusively as "dungeon denizens."
 
 If you find yourself wanting to use a monster for which you do not have stats, a simple solution is to **"reskin"** existing monsters—meaning keeping the same stats but describing the monster in a different way, with different names and different mannerisms. 
 
@@ -419,6 +421,11 @@ Then, for each creature and character, fill out the following details:
 4. Write the **stats** you need to reference at the table as the GM for this denizen.
 
 At the end of this step, you should have three creatures and three NPCs ready to use for your dungeon!
+
+{: .josh }   
+My completed list of dungeon denizens looks like this:
+
+[![](../../assets/images/josh-denizens.png)](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.xn9hd4ys3jub)
 
 # Further reading
 
