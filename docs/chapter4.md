@@ -193,7 +193,7 @@ If you want to use pen and paper to draw your dungeon, **print page 4 of the [De
 
 ## Step 3: Draw shapes for half of the rooms
 
-The shape of your rooms will be determined by the structures defined in Chapter 3[LINK>]. Are they rough, naturalistic stone walls? Is it built by human hands? Built by inhuman hands?
+The shape of your rooms will be determined by the structures defined in [chapter 3]({{site.baseurl}}/docs/chapter3/#activity-establish-details-about-your-environmentactivity). Are they rough, naturalistic stone walls? Is it built by human hands? Built by inhuman hands?
 
 In this step, you will draw about half of your rooms. Use different shapes to represent different areas: draw squares to represent rooms, circles for towers, cloud-shapes for forested spaces, etc. Draw some spaces clustered together as contiguous rooms. As you draw, leave some spaces between the different clusters of rooms.
 
