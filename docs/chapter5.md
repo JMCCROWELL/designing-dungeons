@@ -154,7 +154,9 @@ As the players encounter these features, they’ll experiment with them to learn
 
 {: .highlight .callout}  
 Most dungeons benefit from at least a few things that are pretty gonzo. Write out some crazy ideas. Cut the ones that seem silly or hard to communicate to your players. 
+
 <img src="../../assets/images/spot-4-by-bertdrawsstuff.png" style="float: right; margin: 0 0 10px 10px; max-width: 45%;"> 
+
 For example:
 
 * An idol to the machine god, hands cupped to receive offerings. Any item placed into the hands is broken down into its constituent parts.  
