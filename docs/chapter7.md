@@ -443,7 +443,7 @@ In [Monster Design from Classics](https://www.bastionland.com/2018/12/monster-de
 
 > What makes foes distinctive is either their place in the game world (how the players can interact with them as NPCs), their descriptions, and sometimes unique abilities or 'tricks' that make combat with them interesting.
 
-In ["Monster Design and Necessity"](https://dungeonofsigns.blogspot.com/2016/10/monster-design-and-necessity.html), Gus L. lays out an interesting categorization of "A) Weak intelligent Combatants B) Normal Intelligent Combatants C) Very Weak Animals" and different special "tricks" that help think about old-school beasties. By categorizing the different monsters of your theme, you can ensure you have a enough variety to keep things interesting.
+In [Monster Design and Necessity](https://dungeonofsigns.blogspot.com/2016/10/monster-design-and-necessity.html), Gus L. lays out an interesting categorization of "A) Weak intelligent Combatants B) Normal Intelligent Combatants C) Very Weak Animals" and different special "tricks" that help think about old-school beasties. By categorizing the different monsters of your theme, you can ensure you have a enough variety to keep things interesting.
 
 ## How do I make NPCs with cool "wants" and "gives"?
 {: .no_toc }
@@ -454,7 +454,7 @@ In ["Monster Design and Necessity"](https://dungeonofsigns.blogspot.com/2016/10/
 > * They have something that is of interest or value to you.
 > * They are not interested in you or your goals.
 
-In "[Zelda-Style NPC Personalities](https://todistantlands.github.io/2023/06/13/zelda-npcs.html)," Alex from ToDistantLands discusses what makes NPCs in Zelda games so unique: they are extremely into their own BS! Use Zelda-style character creation to help build out your NPCs and factions.
+In [Zelda-Style NPC Personalities](https://todistantlands.github.io/2023/06/13/zelda-npcs.html), Alex from ToDistantLands discusses what makes NPCs in Zelda games so unique: they are extremely into their own BS! Use Zelda-style character creation to help build out your NPCs and factions.
 
 ## How can I make more compelling and realistic NPCs?
 {: .no_toc }
@@ -462,6 +462,13 @@ In "[Zelda-Style NPC Personalities](https://todistantlands.github.io/2023/06/13/
 > When I say “short story,” I’m talking about concise prose fiction. It is narrative without fat. It is “about” a singular theme, idea, twist, mood, or moral. 
 
 In "[Every NPC is an Unfinished Short Story](https://blog.boroughbound.com/every-npc-a-short-story/)," Will Savino makes the claim that…well…I think you get it. 
+
+## OK, that's too heavy. Are there simple tips and tricks for making an NPC?
+{: .no_toc }
+
+> To me, an NPC is essentially the same thing as a trap, puzzle, monster, or magic item. They are simply another asset in my toolbox for crafting obstacles and opportunities to challenge my players. 
+
+Dwiz at KnightattheOpera lays out a series of simple patterns he uses to create fun, gameable NPCs in his article [People Are Problems: NPCs as Challenge Elements](https://knightattheopera.blogspot.com/2023/06/npcs-as-challenge-elements.html).
 
 ## Do I *have* to talk in funny voices?  
 {: .no_toc }
