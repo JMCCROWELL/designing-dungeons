@@ -334,4 +334,11 @@ Additionally, in [Action-Oriented Monsters](https://www.youtube.com/watch?v=y_zl
 
 Imagine having to cut down a kraken's many tentacles before you can get close enough to its beaked head to actually kill it! Sounds like a cool battle, right? Mindstorm's [Nested Monster Hit Dice](https://www.mindstormpress.com/nested-monster-hit-dice) is a method to create "puzzle monsters" by representing a single monster's many parts and powers as separate characters, each with their own pool of hit points. 
 
+## How do I create actionable, solvable "puzzle monsters"?
+{: .no_toc }
+
+> I think a key part of elevating a puzzle monster into something that can take up an entire adventure scenario is context. The monster is just one piece of a greater situation which must be reckoned with. The situation still contains puzzle elements, a fantasy nature, and connections to the monster that intrinsically tie them together. But the point is that there's more to consider than just the physical creature itself. 
+
+Dwiz at KnightattheOpera lays out a clear procedure to create a solvable puzzle monster encounter: come up with a monster idea, decide on their goal, figure out what the solution to the fight is, then work backwards. Read the full article, replete with extended examples, [here](https://knightattheopera.blogspot.com/2022/06/stranger-things-and-puzzle-monsters.htm).
+
 ---
