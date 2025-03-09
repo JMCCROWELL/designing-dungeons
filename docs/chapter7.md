@@ -158,7 +158,7 @@ To get started on ideating on different kinds of monsters, combine the stats of 
 2. Consider how they can be merged together thematically, and what implications that would have on their stats.  
 3. Write a stat block that takes something from one monster combined with elements of the other monster.
 
-{: .highlight-title .callout}  
+{: .note-title .callout}  
 > Example: Zombie bear  
 >   
 > Stats as bear, but with the standard undead vulnerabilities and resistances.
@@ -170,7 +170,7 @@ Take a boring monster and make them interesting by introducing a weird new detai
 2. Write a one or two sentence description that makes the monster seem refreshing and weird.  
 3. If this would affect the way they fight, change their stats in a minor way. Write a sentence explaining how they are changed.
 
-{: .highlight-title .callout}  
+{: .note-title .callout}  
 > Example: Peacock cockatrice  
 >   
 > Stats as cockatrice, but petrified victims are turned to gold instead of stone.
@@ -184,7 +184,7 @@ Use the stats of one monster to describe a new monster.
     1. Write a sentence explaining what the new monster looks like.   
     2. Write a sentence explaining what its combat stats will be. 
 
-{: .highlight-title .callout}  
+{: .note-title .callout}  
 > Example: Subterranean white ape men   
 >  
 > Stats as orcs, leader of group will carry a laser gun (stats as wand of lightning bolt)
@@ -195,7 +195,7 @@ Select a monster from your monster manual that is dangerous to fight head on but
 1. Choose a monster for your dungeon that is physically powerful but easily tricked.  
 2. Write a sentence or two for your notes to explain how you'll use the monster at the table.
 
-{: .highlight-title .callout}  
+{: .note-title .callout}  
 > Example: Two-headed troll, always arguing with itself
 
 ## Step 5: Weak but genius monster  
@@ -204,7 +204,7 @@ Select an intelligent monster from your monster manual that can scheme against t
 1. Choose a monster for your dungeon that is mystical or hyper-intelligence but is physically weak.  
 2. Write a sentence or two for your notes to explain how you'll use the monster at the table.
 
-{: .highlight-title .callout}  
+{: .note-title .callout}  
 > Example: Brain in a jar, controls the dungeon's traps
 
 ## Step 6: Monster with resources you can harvest  
@@ -214,7 +214,7 @@ Look through your monster manual and select a monster that yields an interesting
 2. Write a sentence or two for your notes to explain how you'll use the monster at the table.  
 3. Write a sentence or two imagining how the players can make good use of this resource in your dungeon.
 
-{: .highlight-title .callout}  
+{: .note-title .callout}  
 > Example: Biscuit golem  
 >   
 > The biscuit golem is an animate gingerbread man. Eating them is like drinking a potion, with effects based on their ingredients. Shortbread biscuit golems shrink the eater down to 1' tall for an hour, for instance. This would allow players to traverse a tiny door.
