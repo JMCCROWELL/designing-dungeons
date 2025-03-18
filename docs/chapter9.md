@@ -483,4 +483,11 @@ Old-school D&D thrills in an i-Ching-esque adherence to meaning through randomiz
 
 Gus L., our oft cited friend, talks about rumours in his article [Dungeon Crawl Practice 2 - Rumor Tables](https://alldeadgenerations.blogspot.com/2020/02/dungeon-crawl-practice-2-rumor-tables.html). He expounds further on why he doesn't use purely false rumours and how you can finesse levels of truthiness in your rumour table.
 
+## What advice can you provide for writing good rumors?
+{: .no_toc }
+
+> I don't mind rumours being misleading, but where they lead should still be interesting. If players are rewarded with dead ends or uninteresting red-herrings for their efforts, they will quickly learn your lesson: stop bothering. Good rumours should advertise SMART goals: Specific, Measurable, Achievable, Relevant, Time-Bound
+
+Illusory Sensorium applies the "SMART" format to rumors to good effect in their post ["World Building for Wetware"](https://illusorysensorium.com/world-building-for-wetware/). 
+
 ---
