@@ -279,6 +279,9 @@ Then, navigate to page 6: Traps and Secrets. For each step, write your answers d
 {: .josh }   
 If you want to see my version of the workbook with this activity complete, [check it out here](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.tt2gwdsghu8n).
 
+{: .warren }
+All secrets and no traps? At least, that's how it turned out for me! [Here's my version of the activity](https://docs.google.com/document/d/1GW1XkHdF5WNua46_y9JEWLHfmLcK6NjDDKSZ-t-XVHE/edit?tab=t.0#heading=h.kgocdlfh9r08).
+
 ## Step 1: Define your dungeon's history
 
 **Imagine** what your dungeon was constructed to be. Now, imagine what it is today, who occupies it, and what new purposes it serves. 
