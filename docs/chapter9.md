@@ -440,6 +440,13 @@ In the final chapters of this course, you'll start placing your ideas onto your 
 
 # Further reading
 
+## Why would you ever have a dungeon with no treasure?
+{: .no_toc }
+
+> There is more variability, more tension and excitement, and much more difference in terms of how the game can go and what comes of it. You could step into the dungeon and walk into a deathtrap, finding nothing, and losing many men. Or you could bypass that room and find the treasure and walk out victorious. The gamble is heightened, the tension is through the roof, and players really have to think (and their cleverness is rewarded a lot more). It adds new dimensions to the game.
+
+Ram at SaveVsTotalPartyKill muses about [negadungeons](https://save.vs.totalpartykill.ca/blog/epistles-3/?utm_source=substack&utm_medium=email) - deathtrap dungeons with none of the usual push and pull of treasure. He goes into the texture these experiences add to an overall campaign, and why you shouldn't count them out completely.
+
 ## What are some good magic items that I can place in my dungeon?  
 {: .no_toc }
 
