@@ -213,6 +213,9 @@ For this activity, **[open the workbook]({{site.baseurl}}/docs/chapter2/#activit
 {: .josh }   
 If you want to see my version of the workbook with this activity complete, [check it out here](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.hafn7tm0yn4g).
 
+{: .warren }
+My version of the checklist is [here](https://docs.google.com/document/d/1GW1XkHdF5WNua46_y9JEWLHfmLcK6NjDDKSZ-t-XVHE/edit?tab=t.0#heading=h.xrzo3skghq6h).
+
 ## Step 1. A reason to explore
 
 **Consider** why the players are venturing into the dungeon. For each question, **write a sentence or two,** drawing on your brainstorming notes and dungeon's themes.

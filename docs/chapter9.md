@@ -440,6 +440,13 @@ In the final chapters of this course, you'll start placing your ideas onto your 
 
 # Further reading
 
+## Why would you ever have a dungeon with no treasure?
+{: .no_toc }
+
+> There is more variability, more tension and excitement, and much more difference in terms of how the game can go and what comes of it. You could step into the dungeon and walk into a deathtrap, finding nothing, and losing many men. Or you could bypass that room and find the treasure and walk out victorious. The gamble is heightened, the tension is through the roof, and players really have to think (and their cleverness is rewarded a lot more). It adds new dimensions to the game.
+
+Ram at SaveVsTotalPartyKill muses about [negadungeons](https://save.vs.totalpartykill.ca/blog/epistles-3/?utm_source=substack&utm_medium=email) - deathtrap dungeons with none of the usual push and pull of treasure. He goes into the texture these experiences add to an overall campaign, and why you shouldn't count them out completely.
+
 ## What are some good magic items that I can place in my dungeon?  
 {: .no_toc }
 
@@ -482,5 +489,12 @@ Old-school D&D thrills in an i-Ching-esque adherence to meaning through randomiz
 > The internal logic of Rumors allows partial truths and inconsistencies - a Rumor that is self-contradictory or oracular suggests its listener needs to be cautious about its contents or interpret them. Likewise a rumormonger that appears untrustworthy, sounds unhinged, or is obviously a disreputable narrator allows the designer more leeway to create ambiguous Rumors as this also cautions the players.
 
 Gus L., our oft cited friend, talks about rumours in his article [Dungeon Crawl Practice 2 - Rumor Tables](https://alldeadgenerations.blogspot.com/2020/02/dungeon-crawl-practice-2-rumor-tables.html). He expounds further on why he doesn't use purely false rumours and how you can finesse levels of truthiness in your rumour table.
+
+## What advice can you provide for writing good rumors?
+{: .no_toc }
+
+> I don't mind rumours being misleading, but where they lead should still be interesting. If players are rewarded with dead ends or uninteresting red-herrings for their efforts, they will quickly learn your lesson: stop bothering. Good rumours should advertise SMART goals: Specific, Measurable, Achievable, Relevant, Time-Bound
+
+Illusory Sensorium applies the "SMART" format to rumors to good effect in their post ["World Building for Wetware"](https://illusorysensorium.com/world-building-for-wetware/). 
 
 ---

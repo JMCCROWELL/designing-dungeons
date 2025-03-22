@@ -151,6 +151,9 @@ Make sure you have the **RPG that you're designing for** nearby. You'll referenc
 {: .josh }   
 If you want to see my version of the workbook with this activity complete, [check it out here](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.a7jdtyc0dtwy).
 
+{: .warren }
+My version of the workbook is [here](https://docs.google.com/document/d/1GW1XkHdF5WNua46_y9JEWLHfmLcK6NjDDKSZ-t-XVHE/edit?tab=t.0#heading=h.1l3k6vjgosem)!
+
 ## Step 1: Mix two monsters together  
 To get started on ideating on different kinds of monsters, combine the stats of two monsters together.
 

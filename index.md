@@ -23,4 +23,4 @@ This course&mdash;**Designing Dungeons: Or, How to Kill a Party in 30 Rooms or L
 > Are you ready to design a dungeon for your players to delve? Continue to [chapter 1]({{site.baseurl}}/docs/chapter1/) to learn more about the goals of the course, learn a bit about the authors, and the tools we'll use as we work on this project together.
 
 {: .important .callout}
-The content of this course is being **actively developed**. There are fourteen planned chapters. New chapters are released frequently. This warning will be removed when all content is finalized. 
+The content of this course is being **actively developed**. There are thirteen (lucky!) planned chapters. New chapters are released frequently. This warning will be removed when all content is finalized. 
