@@ -69,7 +69,7 @@ For example:
 * A pool that can heal any wound (but its magic will work only once per person)
 
 {: .highlight .callout}
-Advertise why the players might be going into the dungeon early in the adventure. These are the "hooks" that give the player characters the pretense for going into the dungeon in the first place. You'll derive your hooks from the treasures, aid, and boons you place into the dungeon while writing it; we'll discuss these in chapter 9 of this course.
+Advertise why the players might be going into the dungeon early in the adventure. These are the "hooks" that give the player characters the pretense for going into the dungeon in the first place. You'll derive your hooks from the treasures, aid, and boons you place into the dungeon while writing it; we'll discuss these in [chapter 9]({{site.baseurl}}/docs/chapter9/#writing-hooks-and-bounties) of this course.
 
 # A reason to talk
 
