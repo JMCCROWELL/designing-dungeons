@@ -57,9 +57,10 @@ In this activity, you'll establish some essential truths about what the dungeon 
 
 This step establishes a baseline—unless a room description specifies otherwise, these descriptions will be true by default in your dungeon. You'll write the room-by-room descriptions later.
 
-For this activity, **[open the workbook]({{site.baseurl}}/docs/chapter2/#activity-create-a-theme-and-background-activity)** that you created in chapter 2. 
+For this activity, **[open the workbook]({{site.baseurl}}/docs/chapter2/#activity-create-a-theme-and-background-activity)** that you created in chapter 2. Go to page **3: Dungeon Worksheet**.
 
-If you want to see my version of the workbook with this activity complete, check it out [here.](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?usp=sharing)
+{: .josh } 
+If you want to see my version of the workbook with this activity complete, check it out [here.](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?usp=sharing) 
 
 ## Step 1. Consider space
 

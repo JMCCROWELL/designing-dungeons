@@ -261,6 +261,9 @@ Take a normal, standard piece of treasure. Then **write a twist** for that treas
 > * jade statues made to honor dogs who have passed, each marked with a name: Brave, Bark-Destroys-Evil, Face-Licker  
 > * coins minted with the face of the Last Emperor; to bear his sigil is illegal, making them hard to spend
 
+{: .warren }
+Need inspiration? Here's my completed exercise, detailing some [treasure](https://docs.google.com/document/d/1GW1XkHdF5WNua46_y9JEWLHfmLcK6NjDDKSZ-t-XVHE/edit?tab=t.0#heading=h.dp7gkdg8mft4) found in my dungeon, the Barrow House of the Headless Wizard.
+
 # Returning to the dungeon
 
 There's a thrill when not every beat of a story is perfectly gettable. The reader pauses and thinks, "I'll come back to this later." When used sparingly, the entire flow is enriched. An adventure is the same way.
@@ -430,6 +433,7 @@ Next, you'll write six rumors that players can potentially hear about your dunge
 > If you want to read my entries for this chapter's activities, here's my…  
 > * [Treasure budget](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.xf1zbd4bqhsm)  
 > * [Hooks, rumors, and bounties](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.ql253up1iefc) 
+
 
 ## Wrapping up  
 {: .no_toc }

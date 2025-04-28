@@ -401,6 +401,9 @@ At this point, we are still writing in pencil, not ink. There is a space for loc
 {: .josh }   
 If you're interested in seeing my work for some monsters and characters for [His Majesty the Worm](https://hismajestytheworm.games/), check it out [here](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.xn9hd4ys3jub).
 
+{: .warren }
+My dungeon denizens are [here](https://docs.google.com/document/d/1GW1XkHdF5WNua46_y9JEWLHfmLcK6NjDDKSZ-t-XVHE/edit?tab=t.0#heading=h.9azyzso9ygxd). My goals with my dungeon are to try to put some fresh spins and reskins on very common dungeon creatures. Even going so far as to reskin a spiked-pit traps as the immobile but clawing hands of the dead.
+
 ## Step 1. Establish creatures
 
 Using your previous work, **choose three creatures** (monsters, animals, automatons, non-thinking antagonists, etc.) to use in your dungeon.
