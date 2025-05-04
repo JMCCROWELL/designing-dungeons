@@ -232,6 +232,22 @@ Gus L. is prolific in the OSR scene, and has over his long career offered his op
 * You can read his first blog here.  
 * You can read his currently-updating blog here.
 
+## How can I write even shorter, punchier room descriptions? 
+
+> The key things here are speed, flexibility, and creativity. I do it this way, because I am in constant engagement with the players.
+
+> I look down at the tick room, and I see enough information to tell me everything I need to run the encounter successfully in seven words. The next time I will have to disengage from the players is to read the Ticks stats!
+
+[On Set Design](https://hackslashmaster.blogspot.com/2012/06/on-set-design.html) by Courtney Campbell lays out an alternate pattern for keying rooms that is very terse. If you are better at remembering your intentions better than I am, perhaps this alternate method would work for you!
+
+In contrast, Miranda at In Places Deep offers a middle ground in her post [How Many Notes Do you Need?](https://inplacesdeep.blogspot.com/2012/12/how-many-notes-do-you-need.html).
+
+## What's a historical perspective on how room keys have been used in the hobby?
+
+> The most common style in published modules (and also probably the oldest, as you can see it in some of the earlier modules, such as B2) is the dreaded wall of text. Areas are described in lengthy, proper English prose. ... Another older approach is the minimal key, exemplified by the few extant photos of Gygax’s Castle Greyhawk key. This is easy to use, but suffers in terms of being able to encode any kind of complexity. 
+
+In [Improved Area Keys](https://necropraxis.com/2013/12/07/improved-area-keys/), Brendan at Necropraxis provides a little historical context on how room descriptions have been used in historic D&D modules and offers some opportunities for improvement.
+
 
 
 ---

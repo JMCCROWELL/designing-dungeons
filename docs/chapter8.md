@@ -311,6 +311,9 @@ To see the sort of boss fight I put together, check out at my [completed Dungeon
 
 [![](../../assets/images/dungeon-lord-encounter.png)](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#bookmark=id.n3b9jhspexp9)
 
+{: .warren }
+My dungeon lord is the Headless Mage! In fact, my dungeon will be named after this villain. Read about the dwelling-place of the Headless Mage [here](https://docs.google.com/document/d/1GW1XkHdF5WNua46_y9JEWLHfmLcK6NjDDKSZ-t-XVHE/edit?tab=t.0#heading=h.70p1ogkq07g).
+
 # Further reading 
 
 ## What good are empty rooms?  
