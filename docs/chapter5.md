@@ -68,6 +68,8 @@ For example:
 * A retired sword-saint, who might be willing to teach you her skills   
 * A pool that can heal any wound (but its magic will work only once per person)
 
+You'll build out reasons to explore in the activity in [chapter 9]({{site.baseurl}}/docs/chapter9/).
+
 {: .highlight .callout}
 Advertise why the players might be going into the dungeon early in the adventure. These are the "hooks" that give the player characters the pretense for going into the dungeon in the first place. You'll derive your hooks from the treasures, aid, and boons you place into the dungeon while writing it; we'll discuss these in [chapter 9]({{site.baseurl}}/docs/chapter9/#writing-hooks-and-bounties) of this course.
 
@@ -97,6 +99,8 @@ For example:
   * They want fresh bones to gnaw, to be flattered, and their ancient treasures to be restored to them.  
   * They can offer royal titles for a kingdom that no longer exists.
 
+You'll build out NPCs to talk with in [chapter 7]({{site.baseurl}}/docs/chapter7/).
+
 # A reason to fight
 
 Not everything can be negotiated with. Interesting combats can be thrilling.
@@ -115,6 +119,8 @@ A reason to fight doesn’t always have to mean "to the death." Enemies can have
 {: .highlight .callout}  
 Even hostile forces can provide rich role-playing opportunities: through shouted insults, players can learn about an enemy’s motivations, current plans, belief systems, or the dungeon level in general. 
 
+You'll build out foes to fight in the activity in [chapter 7]({{site.baseurl}}/docs/chapter7/).
+
 # A reason to flee
 
 Not every battle can be won. The players should occasionally be faced with a foe who cannot be defeated through honest combat. Place some large, overwhelming, or magically potent creatures into each dungeon to keep things dangerous. 
@@ -128,6 +134,8 @@ For example:
 * …No seriously put a dragon in your dungeon
 
 "A reason to flee" is more than just some very scary monster; it's an opportunity to show off a fantastical element of your world by showing not telling, especially at low level where players often are expecting to only encounter giant rats or skeletons. It also a place to present a tantalizing puzzle for the players to solve&mdash;how do they get past the fire elemental of the black pit?
+
+You'll write some reasons to run away in [chapter 8]({{site.baseurl}}/docs/chapter8/).
 
 # A reason to breathe easy
 
@@ -145,6 +153,7 @@ For example:
 
 As opposed to the "reason to flee," the "reason to breathe easy" can still be an opportunity to show off how fantastical the world is. In this area, art, furniture, or passive magical effects can drive home facets of the setting. If players have been asking questions about major events, perhaps the answers are here.
 
+You'll detail "safe spaces" in an activity in [chapter 8]({{site.baseurl}}/docs/chapter8/).
 
 # A reason to experiment
 
@@ -167,6 +176,8 @@ Once clever players understand how a feature works, they can turn this informati
 
 These experiments can also help answer the *why* of the dungeon. Why was this dungeon built or formed here? Why are X and Y factions fighting over these grey halls? Why did the queen of old keep sending her best knights to die here so that their undead bodies now haunt these rooms?
 
+You'll detail weird stuff to mess around with in [chapter 6]({{site.baseurl}}/docs/chapter6/).
+
 # A reason to be surprised
 
 Though information allows the players to make meaningful choices, it’s essential there are still opportunities for exploration, discovery, and surprise. Not everything should be obvious at first glance. Create some secrets that keep players invested in investigating the dungeon. <img src="../../assets/images/spot-2-by-bertdrawsstuff.png" style="float: right; margin: 0 0 10px 10px; max-width: 45%;"> 
@@ -178,6 +189,8 @@ For example:
 * A pit trap in front of the throne, allowing the Slug King to drop those he's displeased with into the Pit of the Ever-hungry Slime
 
 Surprise breaks up routine and challenges expectations. Surprise often creates dramatic moments, last stands, and narrow escapes that excite players and create stories that live on past the game itself.
+
+You'll write some surprises in [chapter 6]({{site.baseurl}}/docs/chapter6/).
 
 # A reason to return
 
@@ -193,6 +206,8 @@ For example:
 A big caveat here is that you don't want your dungeon to grind to a halt. Challenges like puzzles and riddles work best when they gate rewards and optional content. It's not fun to sit in front of the entrance to a dungeon, watching the wizard player trying to guess what "Speak friend and enter" means while everybody else is bored. You can put content that you anticipate players needing to return to, but make sure there are alternate routes as well so the fun doesn't stop.
 
 "Reasons to return" can also be rooms on structures in a dungeon that provide lasting benefit allowing the dungeon to maintain some longevity in the players' mind. For instance, once you have dispersed the wolf bats of the foul wizard Murger, the shrine to Helios could be restored and every Friday at noon it can enchant a weapon. Now the dungeon is a semi-domain that the adventurers might want to maintain or can become a location of future conflicts&mdash;both reasons to return.
+
+You'll brainstorm reasons to return in [chapter 9]({{site.baseurl}}/docs/chapter9/).
 
 ![](../../assets/images/bottom-right-e-by-bertdrawsstuff.png)
 
