@@ -180,7 +180,7 @@ Don't forget to put the monster's hoard in this room or a nearby room. The rewar
 
 ![](../../assets/images/sphere-of-protection-by-bertdrawstuff.png)
 
-# Josh's dungeon: The Lower Ossuary
+# Josh's dungeon: The Lower Ossuary <span class="label label-purple">Resource</span> 
 
 {: .josh}  
 > If you want to see how I've been answering these questions, check out my [dungeon workbook, here](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#heading=h.32b2m6arntio).  
@@ -265,7 +265,7 @@ Each bedroom is enchanted with illusions. Both entrances to this area are locked
 
 So there you have it! A six (+1) room cluster designed around a naturalistic domestic space, but which includes a magic pool, locked doors, a magic potion, secret tunnels, golden eggs, flying knives, zombies, and a talking spider. Even just typing that out makes me feel pretty solid. It's an interesting, choice-filled space that helps frame the adventure quickly.
 
-# Warren's dungeon: Barrow House of the Headless Mage
+# Warren's dungeon: Barrow House of the Headless Mage <span class="label label-purple">Resource</span> 
 
 {: .warren}  
 > The dungeon I completed as part of this project can be found [here](https://docs.google.com/presentation/d/1KFNiakc9GHBN2N-2mC-WxUAT3gvDRdPfElFn0I32zQk/edit#slide=id.g338c55e65a1_0_17).

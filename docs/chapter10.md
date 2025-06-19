@@ -228,9 +228,9 @@ In the next chapter, we'll put the axioms we discussed to work as we begin build
 
 Gus L. is prolific in the OSR scene, and has over his long career offered his opinion about most salient subjects. 
 
-* You can find his (award winning, best selling) adventures here:  
-* You can read his first blog here.  
-* You can read his currently-updating blog here.
+* You can find his (award winning, best selling) adventures [here.](https://www.drivethrurpg.com/en/publisher/18552/ratking-productions)  
+* You can read his [first blog here.](https://dungeonofsigns.blogspot.com/) 
+* You can read his [currently-updating blog here.](https://alldeadgenerations.blogspot.com/)
 
 ## How can I write even shorter, punchier room descriptions? 
 

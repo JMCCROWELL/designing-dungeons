@@ -162,18 +162,18 @@ Make a note of the things that you cut. You might be able to use them for your r
 {: .josh }
 Taking a look at my workbook, there are parts that are more fleshed out than others. Some ideas were ambitious. Some were interesting. Some are mostly done. Some are just sketched out. What do I need to cut to get this down to a finishable state? If I cut content, I make sure to save it somewhere. You never know when you can create something new and interesting by Frankensteining two old drafts together.
 
-## Josh's dungeon: The Lower Ossuary
+## Josh's dungeon: The Lower Ossuary <span class="label label-purple">Resource</span> 
 
 {: .josh}  
-> [Here's my finalized dungeon!](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#heading=h.32b2m6arntio). At least, it's as finalized as it's going to get for this course. It's a little rough, but that's okay. It'll be fun for me and my friends. If you can parse my notes, you can adapt it for your own purposes, too. 
+[Here's my finalized dungeon!](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#heading=h.32b2m6arntio). At least, it's as finalized as it's going to get for this course. It's a little rough, but that's okay. It'll be fun for me and my friends. If you can parse my notes, you can adapt it for your own purposes, too. 
 
 [![](../../assets/images/josh-dungeon-preview.png)](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?tab=t.0#heading=h.32b2m6arntio)
 
 
-## Warren's dungeon: Barrow House of the Headless Mage
+## Warren's dungeon: Barrow House of the Headless Mage <span class="label label-purple">Resource</span> 
 
 {: .warren}  
-> The dungeon I completed as part of this project can be found [here](https://docs.google.com/presentation/d/1KFNiakc9GHBN2N-2mC-WxUAT3gvDRdPfElFn0I32zQk/edit#slide=id.g338c55e65a1_0_17).
+The dungeon I completed as part of this project can be found [here](https://docs.google.com/presentation/d/1KFNiakc9GHBN2N-2mC-WxUAT3gvDRdPfElFn0I32zQk/edit#slide=id.g338c55e65a1_0_17).
 
 [![](../../assets/images/warrens-dungeon.png)](https://docs.google.com/presentation/d/1KFNiakc9GHBN2N-2mC-WxUAT3gvDRdPfElFn0I32zQk/edit#slide=id.g338c55e65a1_0_17)
 
@@ -186,4 +186,4 @@ We have one final chapter to get through: writing the random encounter table.
 Once you have that, you're ready for the real challenge: scheduling a game! (Truly, scheduling conflicts are the real dragon we must slay.)
 
 {: .josh }  
-If you're running [His Majesty the Worm](https://www.hismajestytheworm.games/), you already have two small dungeons for your Underworld: mine and yours. And now that you've made one dungeon, you know how easy it is! Using these techniques, you'll have a megadungeon in no time. And if you want to add more content, head over to the [Library Heretical at the Wormsite](https://www.hismajestytheworm.games/the-library-heretical) and borrow some other dungeons!
+If you're running [_His Majesty the Worm_](https://www.hismajestytheworm.games/), you already have two small dungeons for your Underworld: mine and yours. And now that you've made one dungeon, you know how easy it is! Using these techniques, you'll have a megadungeon in no time. And if you want to add more content, head over to the [Library Heretical at the Wormsite](https://www.hismajestytheworm.games/the-library-heretical) and borrow some other dungeons!
