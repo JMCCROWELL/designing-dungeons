@@ -1,10 +1,10 @@
 ---
-title: Chapter 13&#58; Writing random encounters
+title: Chapter 13&#58; Writing Random Encounters
 description: "A discussion of random encounters and an activity to create your random encounter table."
 nav_order: 13
 ---
 
-# Chapter 13: Writing random encounters
+# Chapter 13: Writing Random Encounters
 {: .no_toc }
 
 {: .note .callout} 

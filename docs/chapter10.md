@@ -1,10 +1,10 @@
 ---
-title: Chapter 10&#58; Formatting room descriptions
+title: Chapter 10&#58; Formatting Room Descriptions
 description: "This chapter teaches some essential techniques for formatting your prep notes so that they're easy to reference during play."
 nav_order: 10
 ---
 
-# Chapter 10: Formatting room descriptions 
+# Chapter 10: Formatting Room Descriptions 
 {: .no_toc }
 
 {: .note .callout}    

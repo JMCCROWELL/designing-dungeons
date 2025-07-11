@@ -1,10 +1,10 @@
 ---
-title: Chapter 12&#58; Keying room descriptions (Part 2)
+title: Chapter 12&#58; Keying Room Descriptions (Part 2)
 description: "Build out the final 15 rooms of your dungeon"
 nav_order: 12
 ---
 
-# Chapter 12: Keying room descriptions (Part 2) 
+# Chapter 12: Keying Room Descriptions (Part 2) 
 {: .no_toc }
 
 ## Completing the dungeon
