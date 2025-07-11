@@ -1,10 +1,10 @@
 ---
-title: Chapter 11&#58; Keying room descriptions (Part 1) 
+title: Chapter 11&#58; Keying Room Descriptions (Part 1) 
 description: "Begin keying your rooms using the content you've accumulated from the previous exercises"
 nav_order: 11
 ---
 
-# Chapter 11: Keying room descriptions (Part 1)
+# Chapter 11: Keying Room Descriptions (Part 1)
 {: .no_toc }
 ## Writing to the checklist
 {: .no_toc }

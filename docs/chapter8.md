@@ -342,6 +342,6 @@ Imagine having to cut down a kraken's many tentacles before you can get close en
 
 > I think a key part of elevating a puzzle monster into something that can take up an entire adventure scenario is context. The monster is just one piece of a greater situation which must be reckoned with. The situation still contains puzzle elements, a fantasy nature, and connections to the monster that intrinsically tie them together. But the point is that there's more to consider than just the physical creature itself. 
 
-Dwiz at KnightattheOpera lays out a clear procedure to create a solvable puzzle monster encounter: come up with a monster idea, decide on their goal, figure out what the solution to the fight is, then work backwards. Read the full article, replete with extended examples, [here](https://knightattheopera.blogspot.com/2022/06/stranger-things-and-puzzle-monsters.htm).
+Dwiz at KnightattheOpera lays out a clear procedure to create a solvable puzzle monster encounter: come up with a monster idea, decide on their goal, figure out what the solution to the fight is, then work backwards. Read the full article, replete with extended examples, [here](https://knightattheopera.blogspot.com/2022/06/stranger-things-and-puzzle-monsters.html).
 
 ---

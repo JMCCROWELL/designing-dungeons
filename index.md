@@ -15,7 +15,11 @@ If you are hosting a fantasy adventure game, you own the act of creating dangero
 
 Creating a dungeon can seem daunting, but it’s really just a series of small, discrete tasks. The act of creating a dungeon is actually fun for the Game Master and the discovery process is fun for the players. 
 
-This course&mdash;**Designing Dungeons: Or, How to Kill a Party in 30 Rooms or Less**&mdash;is a series of discussions, practical examples, and exercises designed to walk new Game Masters through the process of creating a new dungeon from scratch. The course provides a hands-on approach to the act of dungeon writing in an attempt to demystify the process. By following along, you'll construct a dungeon for your players to explore. 
+This course&mdash;**Designing Dungeons: Or, How to Kill a Party in 30 Rooms or Less**&mdash;is a series of discussions, practical examples, and exercises designed to walk new Game Masters through the process of creating a new dungeon from scratch. The course provides a hands-on approach to the act of dungeon writing in an attempt to demystify the process. By following along, you'll construct a dungeon for your players to explore.
+
+<a href="https://ennie-awards.com/vote/" target="_blank">
+  <img src="https://i.ibb.co/sn6VJp6/ENNIE-Nominee-Worm.png" alt="Vote for the Worm!">
+</a>
 
 {: .josh-title .callout}
 > Get started
