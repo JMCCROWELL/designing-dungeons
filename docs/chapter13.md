@@ -277,7 +277,7 @@ And the more dungeons you accumulate, the more you can run games as you continue
 If you found this free course useful, please consider supporting the authors. 
 
 {: .josh }  
-Josh McCrowell is a [blogger](https://riseupcomus.blogspot.com/), game designer, and current editor-in-chief of [_Knock!_](https://www.themerrymushmen.com/) magazine. Buy his games directly from him on his [Itch page](https://riseupcomus.itch.io/).
+Josh McCrowell is a [blogger](https://riseupcomus.blogspot.com/), game designer, and current editor-in-chief of [_Knock!_](https://www.themerrymushmen.com/) magazine. Buy his games directly from him on his [Itch page](https://riseupcomus.itch.io/). Support this project by buying the dungeon he wrote for this course here: [_Shrines of the Lower Ossuary_](https://riseupcomus.itch.io/shrines-of-the-lower-ossuary). 
 
 {: .warren }  
 Warren D. is the mind behind the [ICastLight blog](https://icastlight.blogspot.com/). Follow along with his projects there and subscribe to his substack.
