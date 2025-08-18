@@ -137,6 +137,11 @@ Yochai Gal, creator of the game *Cairn*, also explains the framing of old-school
 
 [Knock!](https://www.themerrymushmen.com/shop-tmm/) is a series of zines that aggregate the collective wisdom and weirdness of the OSR scene. Between its covers, you can find some of the most well-known OSR essays, strange bits of apocrypha, gameable tables, funky art, new classes, and ready-to-run dungeons. It's exquisitely produced. Some of the issues are even edited by yours truly.
 
+### Do you want to learn how to referee OSR-style games?
+{: .no_toc }
+
+Arnold of Goblinpunch has released a teaching dungeon with commentary called [The Mouth of Mormo](https://goblinpunch.blogspot.com/2025/08/the-mouth-of-mormo.html). Check out the jumbo version to see his explanations of why the dungeon is structured the way it is, and how he recommends approaching rulings, combat, when to call for initiative, handling secrets, and more. Invaluable resource.
+
 ## Why are dungeons the "right size"?
 {: .no_toc }
 
