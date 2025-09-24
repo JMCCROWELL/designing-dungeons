@@ -52,7 +52,7 @@ Contrastingly, [a reason to return]({{site.baseurl}}/docs/chapter9/#returning-to
 Put treasures that you know your players want in your dungeon. 
 
 * Fighters deserve to have access to magic swords.   
-* Magic-users need access to rival wizard's spellbooks and hordes of spell scrolls.
+* Magic-users need access to rival wizard's spellbooks and hoards of spell scrolls.
 
 Gate these treasures behind appropriate challenges. Give your players the satisfaction of earning these treasures by solving puzzles, discovering hidden doors, and tempting fate against difficult monsters.
 
@@ -88,7 +88,7 @@ Design a challenge that isn't easily solved by any specific class feature or ski
 ## Weird stuff and undiscovered lore  
 As a GM, you probably have lots of setting details and lore that you haven't gotten a chance to show off yet. See if there's an opportunity to place connections to these elements in this dungeon. When your players don't have the context for a piece of lore, it makes your game world feel expansive, lived in, and realistic.<img src="../../assets/images/dwarf-by-bertdrawsstuff.png" style="float: right; margin: 0 0 5px 10px; max-width: 48%;"> 
 
-* The dragon's horde contains the dowry given by the Necromancer King to the Queen Unconquered, NPCs from your unpublished fantasy novel.  
+* The dragon's hoard contains the dowry given by the Necromancer King to the Queen Unconquered, NPCs from your unpublished fantasy novel.  
 * A skeleton grasps a letter to a man named Ultan. In his pouch, he has several printing press blocks. Who is this Ultan? Discovering this mystery can be a future quest hook.
 
 {: .highlight .callout}  
