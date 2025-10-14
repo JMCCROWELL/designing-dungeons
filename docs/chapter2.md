@@ -146,10 +146,13 @@ Tool
 [^5]: 
     This workbook was adapted from the [Dungeon23 Worksheet by Gus L.](https://alldeadgenerations.blogspot.com/2022/12/dungeon23-worksheets.html), which was released under the Creative Commons Attribution Non-Commercial license.
 
-> **Alternate Workbook**: [Here is alternate workbook made using Google Sheets.](https://docs.google.com/spreadsheets/d/1Z7EGAmxxVfNtKSxmMbxxwUPmBd602RrKhZ33dHampUY/edit?gid=239933332#gid=239933332) The Google Doc workbook makes frequent use of tables to organize information. Sometimes, this can create pagination issues when there's a lot of text in a single table. The alternate workbook avoids this issue.
+> **Alternate Workbook**: [Here is alternate workbook made using Google Sheets.](https://docs.google.com/spreadsheets/d/1Z7EGAmxxVfNtKSxmMbxxwUPmBd602RrKhZ33dHampUY/edit?gid=239933332#gid=239933332) The Google Doc workbook makes frequent use of tables to organize information. Sometimes, this can create pagination issues when there's a lot of text in a single table. The alternate workbook avoids this issue. If you use the alternate workbook, just remember that things like page number references will be different![^6]
 
 Tool
 {: .label .label-blue }
+
+[^6]: 
+    Special thanks to Juli from Discord for putting together the alternate workbook!
 
 {: .josh }   
 If you want to see my version of the workbook with this activity complete, check it out [here.](https://docs.google.com/document/d/1_BQBAIMOO8DFfvfi2LqGh3CorYYgwaUGyRU3ywxa080/edit?usp=sharing)
