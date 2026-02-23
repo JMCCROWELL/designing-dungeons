@@ -16,6 +16,11 @@ In this chapter, you'll think about the reasons your players have to explore and
 1. TOC  
 {:toc}
 
+{: .highlight-title .callout}  
+> Audio version available
+>  
+> We recorded this chapter for you. <a href="https://podcast.bloggies.org/@WeReadTheBloggies/episodes/series-designing-dungeons-chapter-9-exploring-and-returning-by-josh-mccrowell-and-warren-d" target="_blank">Listen here!</a>
+
 ---
 
 # Incentives to exploration

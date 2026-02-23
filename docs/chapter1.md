@@ -16,6 +16,11 @@ This chapter provides a high-level overview for the course **Designing Dungeons:
 1. TOC
 {:toc}
 
+{: .highlight-title .callout}  
+> Audio version available
+>  
+> We recorded this chapter for you. <a href="https://podcast.bloggies.org/@WeReadTheBloggies/episodes/series-designing-dungeons-chapter-1-course-overview-by-josh-mccrowell-and-warren-d" target="_blank">Listen here!</a>
+
 ---
 
 # Introduction
@@ -65,6 +70,9 @@ My name is Warren. I, too, blog about RPG stuff at the [ICastLight! blog](https:
 
 {: .warren }
 When you see a blue callout like this, this is Warren is talking to you directly. He often talks more specifically about B/X D&D.
+
+## Audio version by Jon Britton 
+Each chapter has been recorded by Jon Britton, the referee of the excellent [3d6 Down the Line podcast](https://www.3d6downtheline.com/). Links to the audio recordings can be found nestled beneath each table of contents. You can also find the entire series (and lots of other great recorded blog posts) at [WeReadTheBloggies](https://podcast.bloggies.org/@WeReadTheBloggies).
 
 # An old-school approach
 

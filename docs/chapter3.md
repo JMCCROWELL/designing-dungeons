@@ -16,6 +16,11 @@ In this chapter, you'll define specific details about your dungeon by building o
 1. TOC
 {:toc}
 
+{: .highlight-title .callout}  
+> Audio version available
+>  
+> We recorded this chapter for you. <a href="https://podcast.bloggies.org/@WeReadTheBloggies/episodes/series-designing-dungeons-chapter-3-refining-the-theme-by-josh-mccrowell-and-warren-d" target="_blank">Listen here!</a>
+
 ---
 
 # Communicating your ideas through details

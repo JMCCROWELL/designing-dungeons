@@ -16,6 +16,11 @@ In this chapter, you'll begin to define features of the dungeon—its dangers, i
 1. TOC
 {:toc}
 
+{: .highlight-title .callout}  
+> Audio version available
+>  
+> We recorded this chapter for you. <a href="https://podcast.bloggies.org/@WeReadTheBloggies/episodes/series-designing-dungeons-chapter-5-dungeon-checklist-by-josh-mccrowell-and-warren-d" target="_blank">Listen here!</a>
+
 ---
 
 # What makes a good dungeon?
