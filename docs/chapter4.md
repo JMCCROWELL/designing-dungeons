@@ -16,6 +16,11 @@ Maps are an important tool that help GMs and players understand the space where 
 1. TOC
 {:toc}
 
+{: .highlight-title .callout}  
+> Audio version available
+>  
+> We recorded this chapter for you. <a href="https://podcast.bloggies.org/@WeReadTheBloggies/episodes/series-designing-dungeons-chapter-4-creating-the-map-by-josh-mccrowell-and-warren-d" target="_blank">Listen here!</a>
+
 ---
 
 # Setting the dungeon in your setting

@@ -18,6 +18,11 @@ nav_order: 6
 1. TOC  
 {:toc}
 
+{: .highlight-title .callout}  
+> Audio version available
+>  
+> We recorded this chapter for you. <a href="https://podcast.bloggies.org/@WeReadTheBloggies/episodes/series-designing-dungeons-chapter-6-experiments-and-surprises-by-josh-mccrowell-and-warren-d" target="_blank">Listen here!</a>
+
 {: .highlight-title .callout}
 > Note
 >

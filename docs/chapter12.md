@@ -19,6 +19,11 @@ In [chapter 11]({{site.baseurl}}/docs/chapter11), you wrote 15 rooms&mdash;half 
 1. TOC    
 {:toc}
 
+{: .highlight-title .callout}  
+> Audio version available
+>  
+> We recorded this chapter for you. <a href="https://podcast.bloggies.org/@WeReadTheBloggies/episodes/series-designing-dungeons-chapter-11-keying-room-descriptions-part-2-by-josh-mccrowell-and-warren-d" target="_blank">Listen here!</a>
+
 ---
 
 # Write to fill gaps<span class="label label-purple">Activity</span>      
