@@ -22,6 +22,27 @@ This course&mdash;**Designing Dungeons: Or, How to Kill a Party in 30 Rooms or L
 > 
 > Are you ready to design a dungeon for your players to delve? Continue to [chapter 1]({{site.baseurl}}/docs/chapter1/) to learn more about the goals of the course, learn a bit about the authors, and the tools we'll use as we work on this project together.
 
-### 🥇 Winner — Best Series, The Bloggies 2026
+## 🥇 2026 ENNIE Awards
 
-The *Designing Dungeons Course* took home the gold in Best Blog Series at the [2026 Bloggies](https://www.explorersdesign.com/bloggies-2026/) — the RPG blogosphere's annual celebration of the best writing in tabletop gaming. We're honored to be recognized alongside so many incredible voices in the community.
+{: .important-title .callout}  
+> Vote for us!
+>
+> The *Designing Dungeons Course* has been nominated for an ENNIE Award for **[Best Online Content](https://ennie-awards.com/)**. But we need your votes to help us win!
+
+### How to vote
+
+1. Go to the [ennie-awards.com's voting both](https://ennie-awards.com/)
+
+2. Click on **Best Online Content**
+
+3. Select **Designing Dungeons Course: Or, How to Kill a Party in 30 Rooms or Less, Joshua McCrowell & Warren D** as **#1.**
+
+4. Press **submit**! 
+
+5. Receive our eternal gratitude for your support.
+
+Voting runs from July 10th to July 19th.
+
+<a href="https://ennie-awards.com/">
+  <img src="../../assets/images/Ennie awards logo-Black.png" width="50%" alt="Ennie Awards logo">
+</a>

@@ -342,4 +342,9 @@ The early D&D maps were rich with icons for all sorts of different things; each 
 
 Nickoten provides a little context and framing around the common term "Jacquaysing" (and unwelcome alternatives) in their article: [How Jennell Jacquays Evolved Dungeon Design](https://pathikablog.com/2025/04/26/how-jennell-jacquays-evolved-dungeon-design-part-1-pre-jacquays-dungeons/)
 
+## How can I make a dungeon entrance interesting?
+{: .no_toc }
+
+Stumped on ideas on what to use for the entrance(s) to your dungeon? The Dododecahedron blog has a list of [100 interesting dungeon entrances](https://dododecahedron.blog/2023/01/14/100-dungeon-entrances/) to roll (or choose) from!
+
 ---
