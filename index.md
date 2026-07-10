@@ -31,7 +31,7 @@ This course&mdash;**Designing Dungeons: Or, How to Kill a Party in 30 Rooms or L
 
 ### How to vote
 
-1. Go to the [ennie-awards.com's voting both](https://vote.ennie-awards.com/vote/2026/)
+1. Go to the [ennie-awards.com's voting booth](https://vote.ennie-awards.com/vote/2026/)
 
 2. Click on **Best Online Content**
 
