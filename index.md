@@ -27,11 +27,11 @@ This course&mdash;**Designing Dungeons: Or, How to Kill a Party in 30 Rooms or L
 {: .important-title .callout}  
 > Vote for us!
 >
-> The *Designing Dungeons Course* has been nominated for an ENNIE Award for **[Best Online Content](https://ennie-awards.com/)**. But we need your votes to help us win!
+> The *Designing Dungeons Course* has been nominated for an ENNIE Award for **[Best Online Content](https://vote.ennie-awards.com/vote/2026/)**. But we need your votes to help us win!
 
 ### How to vote
 
-1. Go to the [ennie-awards.com's voting both](https://ennie-awards.com/)
+1. Go to the [ennie-awards.com's voting both](https://vote.ennie-awards.com/vote/2026/)
 
 2. Click on **Best Online Content**
 
@@ -43,6 +43,6 @@ This course&mdash;**Designing Dungeons: Or, How to Kill a Party in 30 Rooms or L
 
 Voting runs from July 10th to July 19th.
 
-<a href="https://ennie-awards.com/">
+<a href="https://vote.ennie-awards.com/vote/2026/">
   <img src="../../assets/images/Ennie awards logo-Black.png" width="50%" alt="Ennie Awards logo">
 </a>
