@@ -342,6 +342,8 @@ The early D&D maps were rich with icons for all sorts of different things; each 
 
 Nickoten provides a little context and framing around the common term "Jacquaysing" (and unwelcome alternatives) in their article: [How Jennell Jacquays Evolved Dungeon Design](https://pathikablog.com/2025/04/26/how-jennell-jacquays-evolved-dungeon-design-part-1-pre-jacquays-dungeons/)
 
+For more detail on the subject, Gus L.'s article ["Jaquays Your Dungeon" - Another OSR Maxim](https://alldeadgenerations.blogspot.com/2026/07/jaquays-your-dungeon-another-osr-maxim.html) reminds us that maxims can be thought-defeating clichés if not investigated. The way he transforms a map from hyper-looped to just-right is inspirational.
+
 ## How can I make a dungeon entrance interesting?
 {: .no_toc }
 
