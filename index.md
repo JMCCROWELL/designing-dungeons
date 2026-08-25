@@ -22,5 +22,9 @@ This course&mdash;**Designing Dungeons: Or, How to Kill a Party in 30 Rooms or L
 > 
 > Are you ready to design a dungeon for your players to delve? Continue to [chapter 1]({{site.baseurl}}/docs/chapter1/) to learn more about the goals of the course, learn a bit about the authors, and the tools we'll use as we work on this project together.
 
-### 🥇 Winner — Best Series, The Bloggies 2026
-The *Designing Dungeons Course* took home the gold in Best Blog Series at the [2026 Bloggies](https://www.explorersdesign.com/bloggies-2026/) — the RPG blogosphere's annual celebration of the best writing in tabletop gaming. We're honored to be recognized alongside so many incredible voices in the community.
+### 🥇 Awards and Accolades
+The *Designing Dungeons Course* took home the gold in **Best Blog Series** at the [2026 Bloggies](https://www.explorersdesign.com/bloggies-2026/) — the RPG blogosphere's annual celebration of the best writing in tabletop gaming. We're honored to be recognized alongside so many incredible voices in the community.
+
+It also won gold for **Best Online Content** in the [2026 ENNIE Awards](https://ennie-awards.com/2026-nominees/).
+
+![](../../assets/images/ENNIE awards logo-Gold.png)
