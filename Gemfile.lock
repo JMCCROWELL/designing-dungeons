@@ -100,7 +100,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-dice-tray (0.5.1)
+    jekyll-dice-tray (0.6.0)
       jekyll (>= 3.7, < 5.0)
       nokogiri (>= 1.14)
     jekyll-github-metadata (2.16.1)
